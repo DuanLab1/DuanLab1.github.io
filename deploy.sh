@@ -1,5 +1,6 @@
 #!/bin/sh
 
 git add -A
-git commit -m "Blog update"
-git push -u origin main
+git commit -m "update blog"
+git push -u origin public
+
