@@ -2,16 +2,87 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>/people/people/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>/publication-type/2/</loc>
+    <lastmod>2024-10-08T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>/</loc>
+    <lastmod>2024-10-08T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>/publication/nar2024/</loc>
+    <lastmod>2024-10-08T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>/publication_types/</loc>
+    <lastmod>2024-10-08T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>/publication/</loc>
+    <lastmod>2024-10-08T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>/tag/source-themes/</loc>
+    <lastmod>2024-10-08T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>/tags/</loc>
+    <lastmod>2024-10-08T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>/publication/scls2024/</loc>
+    <lastmod>2024-07-23T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>/publication/gb2024/</loc>
+    <lastmod>2024-03-19T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>/publication/gm2023/</loc>
+    <lastmod>2023-12-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>/publication/sclf2022/</loc>
+    <lastmod>2022-12-15T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>/publication/gpb2022/</loc>
+    <lastmod>2022-09-29T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>/publication/gb2022/</loc>
+    <lastmod>2022-01-12T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>/publication/nar2021/</loc>
+    <lastmod>2021-08-20T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>/publication/sa2020/</loc>
+    <lastmod>2020-10-30T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>/publication/nc2019/</loc>
+    <lastmod>2019-05-20T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>/publication/gb2018/</loc>
+    <lastmod>2018-06-26T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>/admin/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>/categories/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>/</loc>
+    <loc>/gallery/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>/gallery/</loc>
+    <loc>/event/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>/post/</loc>
@@ -20,16 +91,7 @@
     <loc>/people/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>/publication_types/</loc>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>/publication/</loc>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>/research/</loc>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>/tags/</loc>
     <changefreq>weekly</changefreq>
   </url>
 </urlset>
