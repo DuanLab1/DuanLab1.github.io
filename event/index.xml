@@ -5,12 +5,21 @@
     <link>/event/</link>
       <atom:link href="/event/index.xml" rel="self" type="application/rss+xml" />
     <description>Lab News</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2024 Bin Duan</copyright>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2024 Bin Duan</copyright><lastBuildDate>Fri, 15 Nov 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/media/icon_hub9a637e5d84e6d4c134f91fa57903eec_55838_512x512_fill_lanczos_center_3.png</url>
       <title>Lab News</title>
       <link>/event/</link>
     </image>
+    
+    <item>
+      <title>基于空间转录组的多样本比对分析研究 (青年科学基金项目)</title>
+      <link>/talk/%E5%9F%BA%E4%BA%8E%E7%A9%BA%E9%97%B4%E8%BD%AC%E5%BD%95%E7%BB%84%E7%9A%84%E5%A4%9A%E6%A0%B7%E6%9C%AC%E6%AF%94%E5%AF%B9%E5%88%86%E6%9E%90%E7%A0%94%E7%A9%B6-%E9%9D%92%E5%B9%B4%E7%A7%91%E5%AD%A6%E5%9F%BA%E9%87%91%E9%A1%B9%E7%9B%AE/</link>
+      <pubDate>Fri, 15 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>/talk/%E5%9F%BA%E4%BA%8E%E7%A9%BA%E9%97%B4%E8%BD%AC%E5%BD%95%E7%BB%84%E7%9A%84%E5%A4%9A%E6%A0%B7%E6%9C%AC%E6%AF%94%E5%AF%B9%E5%88%86%E6%9E%90%E7%A0%94%E7%A9%B6-%E9%9D%92%E5%B9%B4%E7%A7%91%E5%AD%A6%E5%9F%BA%E9%87%91%E9%A1%B9%E7%9B%AE/</guid>
+      <description>&lt;p&gt;国家自然科学基金委员会, 青年科学基金项目, 62302336, 基于空间转录组的多样本比对分析研究, 2024-01-01 至 2026-12-31, 30万元, 在研, 主持&lt;/p&gt;
+</description>
+    </item>
     
   </channel>
 </rss>

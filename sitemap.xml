@@ -2,14 +2,22 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/people/people/</loc>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>/publication-type/2/</loc>
-    <lastmod>2024-10-08T00:00:00+00:00</lastmod>
+    <loc>/post/post/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>/</loc>
+    <lastmod>2024-11-15T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>/event/</loc>
+    <lastmod>2024-11-15T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>/talk/%E5%9F%BA%E4%BA%8E%E7%A9%BA%E9%97%B4%E8%BD%AC%E5%BD%95%E7%BB%84%E7%9A%84%E5%A4%9A%E6%A0%B7%E6%9C%AC%E6%AF%94%E5%AF%B9%E5%88%86%E6%9E%90%E7%A0%94%E7%A9%B6-%E9%9D%92%E5%B9%B4%E7%A7%91%E5%AD%A6%E5%9F%BA%E9%87%91%E9%A1%B9%E7%9B%AE/</loc>
+    <lastmod>2024-11-15T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>/publication-type/2/</loc>
     <lastmod>2024-10-08T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -76,19 +84,16 @@
     <loc>/admin/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
+    <loc>/people/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>/categories/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>/gallery/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>/event/</loc>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>/post/</loc>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>/people/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>/research/</loc>
