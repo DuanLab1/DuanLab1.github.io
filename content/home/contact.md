@@ -7,7 +7,7 @@ widget: contact
 headless: true
 
 # Order that this section appears on the page.
-weight: 130
+weight: 60
 
 title: Contact
 subtitle:
@@ -24,8 +24,12 @@ content:
     region: Shanghai
     postcode: '20000'
     country: China
-    country_code: CN   
-  
+    country_code: CN
+  coordinates:
+    latitude: "31.722754"
+    longitude: "119.848007"   
+  directions: Shanghai Jiao Tong University
+
 design:
   columns: '2'
 ---
