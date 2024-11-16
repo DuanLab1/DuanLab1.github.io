@@ -1,16 +1,43 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Research | Duan Lab@SJTU</title>
+    <title>Duan Lab@SJTU</title>
     <link>/research/</link>
       <atom:link href="/research/index.xml" rel="self" type="application/rss+xml" />
-    <description>Research</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2024 Bin Duan</copyright>
+    <description>Duan Lab@SJTU</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2024 Bin Duan</copyright><lastBuildDate>Sat, 16 Nov 2024 16:32:42 +1300</lastBuildDate>
     <image>
       <url>/media/icon_hub9a637e5d84e6d4c134f91fa57903eec_55838_512x512_fill_lanczos_center_3.png</url>
-      <title>Research</title>
+      <title>Duan Lab@SJTU</title>
       <link>/research/</link>
     </image>
+    
+    <item>
+      <title>Inference of Genotype-Molecular Phenotype-Clinical Phenotype Associations</title>
+      <link>/research/inferenceassociation/</link>
+      <pubDate>Sat, 16 Nov 2024 16:32:42 +1300</pubDate>
+      <guid>/research/inferenceassociation/</guid>
+      <description>&lt;p&gt;Our research integrates genomic, molecular, and clinical data to infer the relationships between these different layers of tumor biology. We focus on identifying tumor biomarkers, understanding tumor evolution, and performing prognostic analysis, all of which are essential for early diagnosis, targeted therapy, and individualized patient prognosis.&lt;a href=&#34;https://doi.org/10.15252/embj.2021108389&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;figure source&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Analysis of the Tumor Microenvironment</title>
+      <link>/research/tumormicroenvironment/</link>
+      <pubDate>Fri, 15 Nov 2024 16:32:42 +1300</pubDate>
+      <guid>/research/tumormicroenvironment/</guid>
+      <description>&lt;p&gt;We aim to explore the immune and microbiome microenvironments of tumors, investigating their composition and function, as well as their impact on tumor development. By integrating multi-omics data, we seek to reveal how the tumor microenvironment influences cancer progression.&lt;a href=&#34;https://www.nature.com/articles/s41392-020-00244-1#Fig1&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;figure source&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Characterization and Prediction of Key Molecular Phenotypes</title>
+      <link>/research/keymolecularphenotypes/</link>
+      <pubDate>Thu, 14 Nov 2024 16:32:42 +1300</pubDate>
+      <guid>/research/keymolecularphenotypes/</guid>
+      <description>&lt;p&gt;This includes the systematic analysis and prediction of important molecular features, such as tumor hallmarks, cell types, cell states, and spatial domains, which serve as the basic functional units to characterize tumor cells.&lt;/p&gt;
+</description>
+    </item>
     
   </channel>
 </rss>

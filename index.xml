@@ -5,7 +5,7 @@
     <link>/</link>
       <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <description>Duan Lab@SJTU</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2024 Bin Duan</copyright><lastBuildDate>Fri, 15 Nov 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2024 Bin Duan</copyright><lastBuildDate>Sat, 16 Nov 2024 16:32:42 +1300</lastBuildDate>
     <image>
       <url>/media/icon_hub9a637e5d84e6d4c134f91fa57903eec_55838_512x512_fill_lanczos_center_3.png</url>
       <title>Duan Lab@SJTU</title>
@@ -21,11 +21,83 @@
     </item>
     
     <item>
+      <title>Inference of Genotype-Molecular Phenotype-Clinical Phenotype Associations</title>
+      <link>/research/inferenceassociation/</link>
+      <pubDate>Sat, 16 Nov 2024 16:32:42 +1300</pubDate>
+      <guid>/research/inferenceassociation/</guid>
+      <description>&lt;p&gt;Our research integrates genomic, molecular, and clinical data to infer the relationships between these different layers of tumor biology. We focus on identifying tumor biomarkers, understanding tumor evolution, and performing prognostic analysis, all of which are essential for early diagnosis, targeted therapy, and individualized patient prognosis.&lt;a href=&#34;https://doi.org/10.15252/embj.2021108389&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;figure source&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>基于空间转录组的多样本比对分析研究 (青年科学基金项目)</title>
       <link>/talk/%E5%9F%BA%E4%BA%8E%E7%A9%BA%E9%97%B4%E8%BD%AC%E5%BD%95%E7%BB%84%E7%9A%84%E5%A4%9A%E6%A0%B7%E6%9C%AC%E6%AF%94%E5%AF%B9%E5%88%86%E6%9E%90%E7%A0%94%E7%A9%B6-%E9%9D%92%E5%B9%B4%E7%A7%91%E5%AD%A6%E5%9F%BA%E9%87%91%E9%A1%B9%E7%9B%AE/</link>
-      <pubDate>Fri, 15 Nov 2024 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 16 Nov 2024 00:00:00 +0000</pubDate>
       <guid>/talk/%E5%9F%BA%E4%BA%8E%E7%A9%BA%E9%97%B4%E8%BD%AC%E5%BD%95%E7%BB%84%E7%9A%84%E5%A4%9A%E6%A0%B7%E6%9C%AC%E6%AF%94%E5%AF%B9%E5%88%86%E6%9E%90%E7%A0%94%E7%A9%B6-%E9%9D%92%E5%B9%B4%E7%A7%91%E5%AD%A6%E5%9F%BA%E9%87%91%E9%A1%B9%E7%9B%AE/</guid>
-      <description>&lt;p&gt;国家自然科学基金委员会, 青年科学基金项目, 62302336, 基于空间转录组的多样本比对分析研究, 2024-01-01 至 2026-12-31, 30万元, 在研, 主持&lt;/p&gt;
+      <description>&lt;p&gt;国家自然科学基金委员会, 青年科学基金项目, 62302336, 基于空间转录组的多样本比对分析研究, 2024-01-01 至 2026-12-31, 30万元, 在研, &lt;strong&gt;主持&lt;/strong&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Analysis of the Tumor Microenvironment</title>
+      <link>/research/tumormicroenvironment/</link>
+      <pubDate>Fri, 15 Nov 2024 16:32:42 +1300</pubDate>
+      <guid>/research/tumormicroenvironment/</guid>
+      <description>&lt;p&gt;We aim to explore the immune and microbiome microenvironments of tumors, investigating their composition and function, as well as their impact on tumor development. By integrating multi-omics data, we seek to reveal how the tumor microenvironment influences cancer progression.&lt;a href=&#34;https://www.nature.com/articles/s41392-020-00244-1#Fig1&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;figure source&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>基于单细胞多模态预训练大模型的细胞多模态扰动预测的计算方法研究 (专项项目)</title>
+      <link>/talk/%E5%9F%BA%E4%BA%8E%E5%8D%95%E7%BB%86%E8%83%9E%E5%A4%9A%E6%A8%A1%E6%80%81%E9%A2%84%E8%AE%AD%E7%BB%83%E5%A4%A7%E6%A8%A1%E5%9E%8B%E7%9A%84%E7%BB%86%E8%83%9E%E5%A4%9A%E6%A8%A1%E6%80%81%E6%89%B0%E5%8A%A8%E9%A2%84%E6%B5%8B%E7%9A%84%E8%AE%A1%E7%AE%97%E6%96%B9%E6%B3%95%E7%A0%94%E7%A9%B6-%E4%B8%93%E9%A1%B9%E9%A1%B9%E7%9B%AE/</link>
+      <pubDate>Fri, 15 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>/talk/%E5%9F%BA%E4%BA%8E%E5%8D%95%E7%BB%86%E8%83%9E%E5%A4%9A%E6%A8%A1%E6%80%81%E9%A2%84%E8%AE%AD%E7%BB%83%E5%A4%A7%E6%A8%A1%E5%9E%8B%E7%9A%84%E7%BB%86%E8%83%9E%E5%A4%9A%E6%A8%A1%E6%80%81%E6%89%B0%E5%8A%A8%E9%A2%84%E6%B5%8B%E7%9A%84%E8%AE%A1%E7%AE%97%E6%96%B9%E6%B3%95%E7%A0%94%E7%A9%B6-%E4%B8%93%E9%A1%B9%E9%A1%B9%E7%9B%AE/</guid>
+      <description>&lt;p&gt;国家自然科学基金委员会, 专项项目, 32341008, 基于单细胞多模态预训练大模型的细胞多模态扰动预测的计算方法研究, 2024-01-01 至 2026-12-31, 200万元, 在研, 参与&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Characterization and Prediction of Key Molecular Phenotypes</title>
+      <link>/research/keymolecularphenotypes/</link>
+      <pubDate>Thu, 14 Nov 2024 16:32:42 +1300</pubDate>
+      <guid>/research/keymolecularphenotypes/</guid>
+      <description>&lt;p&gt;This includes the systematic analysis and prediction of important molecular features, such as tumor hallmarks, cell types, cell states, and spatial domains, which serve as the basic functional units to characterize tumor cells.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>基于空间转录组的空间功能域⽐对研究 (上海市青年科技英才扬帆计划)</title>
+      <link>/talk/%E5%9F%BA%E4%BA%8E%E7%A9%BA%E9%97%B4%E8%BD%AC%E5%BD%95%E7%BB%84%E7%9A%84%E7%A9%BA%E9%97%B4%E5%8A%9F%E8%83%BD%E5%9F%9F%E5%AF%B9%E7%A0%94%E7%A9%B6-%E4%B8%8A%E6%B5%B7%E5%B8%82%E9%9D%92%E5%B9%B4%E7%A7%91%E6%8A%80%E8%8B%B1%E6%89%8D%E6%89%AC%E5%B8%86%E8%AE%A1%E5%88%92/</link>
+      <pubDate>Wed, 13 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>/talk/%E5%9F%BA%E4%BA%8E%E7%A9%BA%E9%97%B4%E8%BD%AC%E5%BD%95%E7%BB%84%E7%9A%84%E7%A9%BA%E9%97%B4%E5%8A%9F%E8%83%BD%E5%9F%9F%E5%AF%B9%E7%A0%94%E7%A9%B6-%E4%B8%8A%E6%B5%B7%E5%B8%82%E9%9D%92%E5%B9%B4%E7%A7%91%E6%8A%80%E8%8B%B1%E6%89%8D%E6%89%AC%E5%B8%86%E8%AE%A1%E5%88%92/</guid>
+      <description>&lt;p&gt;上海市科学技术委员会，上海市青年科技英才扬帆计划，23YF1450200，基于空间转录组的空间功能域⽐对研究，2023-04-01 至 2026-03-31，20万元，在研，&lt;strong&gt;主持&lt;/strong&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>基于度量学习的单细胞参考数据集的评估研究 (博士后站中特别资助)</title>
+      <link>/talk/%E5%9F%BA%E4%BA%8E%E5%BA%A6%E9%87%8F%E5%AD%A6%E4%B9%A0%E7%9A%84%E5%8D%95%E7%BB%86%E8%83%9E%E5%8F%82%E8%80%83%E6%95%B0%E6%8D%AE%E9%9B%86%E7%9A%84%E8%AF%84%E4%BC%B0%E7%A0%94%E7%A9%B6-%E5%8D%9A%E5%A3%AB%E5%90%8E%E7%AB%99%E4%B8%AD%E7%89%B9%E5%88%AB%E8%B5%84%E5%8A%A9/</link>
+      <pubDate>Tue, 12 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>/talk/%E5%9F%BA%E4%BA%8E%E5%BA%A6%E9%87%8F%E5%AD%A6%E4%B9%A0%E7%9A%84%E5%8D%95%E7%BB%86%E8%83%9E%E5%8F%82%E8%80%83%E6%95%B0%E6%8D%AE%E9%9B%86%E7%9A%84%E8%AF%84%E4%BC%B0%E7%A0%94%E7%A9%B6-%E5%8D%9A%E5%A3%AB%E5%90%8E%E7%AB%99%E4%B8%AD%E7%89%B9%E5%88%AB%E8%B5%84%E5%8A%A9/</guid>
+      <description>&lt;p&gt;中国博士后科学基金会, 博士后站中特别资助, 2023T160485, 基于度量学习的单细胞参考数据集的评估研究, 2023-08 至 2025-06, 18万元, 在研, &lt;strong&gt;主持&lt;/strong&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>基于空间转录组的多尺度参考图谱模型构建及空间功能域比对 (中国博士后面上资助二等资助)</title>
+      <link>/talk/%E5%9F%BA%E4%BA%8E%E7%A9%BA%E9%97%B4%E8%BD%AC%E5%BD%95%E7%BB%84%E7%9A%84%E5%A4%9A%E5%B0%BA%E5%BA%A6%E5%8F%82%E8%80%83%E5%9B%BE%E8%B0%B1%E6%A8%A1%E5%9E%8B%E6%9E%84%E5%BB%BA%E5%8F%8A%E7%A9%BA%E9%97%B4%E5%8A%9F%E8%83%BD%E5%9F%9F%E6%AF%94%E5%AF%B9-%E4%B8%AD%E5%9B%BD%E5%8D%9A%E5%A3%AB%E5%90%8E%E9%9D%A2%E4%B8%8A%E8%B5%84%E5%8A%A9%E4%BA%8C%E7%AD%89%E8%B5%84%E5%8A%A9/</link>
+      <pubDate>Sun, 10 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>/talk/%E5%9F%BA%E4%BA%8E%E7%A9%BA%E9%97%B4%E8%BD%AC%E5%BD%95%E7%BB%84%E7%9A%84%E5%A4%9A%E5%B0%BA%E5%BA%A6%E5%8F%82%E8%80%83%E5%9B%BE%E8%B0%B1%E6%A8%A1%E5%9E%8B%E6%9E%84%E5%BB%BA%E5%8F%8A%E7%A9%BA%E9%97%B4%E5%8A%9F%E8%83%BD%E5%9F%9F%E6%AF%94%E5%AF%B9-%E4%B8%AD%E5%9B%BD%E5%8D%9A%E5%A3%AB%E5%90%8E%E9%9D%A2%E4%B8%8A%E8%B5%84%E5%8A%A9%E4%BA%8C%E7%AD%89%E8%B5%84%E5%8A%A9/</guid>
+      <description>&lt;p&gt;中国博士后科学基金会, 中国博士后面上资助二等资助, 2022M722418, 基于空间转录组的多尺度参考图谱模型构建及空间功能域比对, 2022-12 至 2025-06, 8万元, 在研, &lt;strong&gt;主持&lt;/strong&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>	2022年入选“上海市超级博士后”</title>
+      <link>/talk/2022%E5%B9%B4%E5%85%A5%E9%80%89%E4%B8%8A%E6%B5%B7%E5%B8%82%E8%B6%85%E7%BA%A7%E5%8D%9A%E5%A3%AB%E5%90%8E/</link>
+      <pubDate>Sat, 09 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>/talk/2022%E5%B9%B4%E5%85%A5%E9%80%89%E4%B8%8A%E6%B5%B7%E5%B8%82%E8%B6%85%E7%BA%A7%E5%8D%9A%E5%A3%AB%E5%90%8E/</guid>
+      <description>&lt;p&gt;2022年入选“上海市超级博士后”（资助编号：2022529）&lt;/p&gt;
 </description>
     </item>
     
@@ -188,6 +260,14 @@
       <link>/admin/config.yml</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>/admin/config.yml</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/contact/</guid>
       <description></description>
     </item>
     
