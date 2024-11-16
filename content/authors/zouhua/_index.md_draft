@@ -1,0 +1,69 @@
+---
+# Display name
+title: Hua Zou (邹华)
+
+# Username (this should match the folder name)
+authors:
+- zouhua
+
+# Is this the primary user of the site?
+superuser: false
+
+# Role/position
+role: Research Assistants (RA)
+
+# Organizations/Affiliations
+# organizations:
+# - name: Stanford University
+#  url: ""
+
+# Short bio (displayed in user profile at end of posts)
+bio: His research interests include host-microbiota intersection, machine learning and multi-omics data integration.
+
+# Interests to show in About widget
+interests:
+  - Statistical approaches
+  - Machine learning algorithms
+  - Data analysis on multi-omics data (microbiome, transcriptome, metabolome, etc)
+  - Data visualization
+
+# Education to show in About widget
+education:
+  courses:
+    - course: MSc in Genomics
+      institution: BGI Education Center, University of Chinese Academy of Sciences
+      year: 2016
+    - course: BSc in Bioinformatics
+      institution: Harbin Medical University
+      year: 2011
+
+# Social/Academic Networking
+# For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
+#   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
+#   form "mailto:your-email@example.com" or "/#contact" for contact widget.
+social:
+  - icon: envelope
+    icon_pack: fas
+    link: '/#contact'
+  - icon: twitter
+    icon_pack: fab
+    link: https://twitter.com/HuaZou01
+  - icon: github
+    icon_pack: fab
+    link: https://github.com/HuaZou
+# Link to a PDF of your resume/CV from the About widget.
+# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
+# - icon: cv
+#   icon_pack: ai
+#   link: files/cv.pdf
+
+# Enter email to display Gravatar (if Gravatar enabled in Config)
+email: ""
+
+# Organizational groups that you belong to (for People widget)
+#   Set this to `[]` or comment out if you are not using People widget.
+user_groups:
+- Research Assistants (RA)
+---
+
+Hua Zou was a senior bioinformatics analyst at Xbiome Company since Mar 7 2022. His research interests include host-microbiota intersection, machine learning and multi-omics data integration. I have developed the [XMAS 2.0](https://xbiomeanalysis.github.io/XMAS_tutorial/) R package for data analysis on microbiota data.

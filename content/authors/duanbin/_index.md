@@ -18,7 +18,7 @@ role: Principal Investigator (PI)
 #  url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: 
+bio: Aim to utilize machine learning and artificial intelligence, combined with systems biology, to comprehensively characterize the genotypes, molecular phenotypes, and clinical phenotypes within the tumor microenvironment. Our goal is to explore the intricate relationships among these three aspects in order to contribute to the advancement of precision oncology. 
 
 interests:
 - Bioinformatics Algorithm
@@ -44,7 +44,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'bioinfo_db@163.com'
+  link: 'binduan@sjtu.edu.cn'
 #- icon: twitter
 #  icon_pack: fab
 #  link: https://twitter.com/

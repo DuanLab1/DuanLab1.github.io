@@ -17,7 +17,7 @@ content:
   autolink: true
   # Contact (edit or remove options as required)
   
-  email: 'bioinfo_db@163.com'
+  email: 'binduan@sjtu.edu.cn'
   phone: ''
   address:
     city: Shanghai
