@@ -20,7 +20,8 @@ content:
   page_type: event
   # Default filter index (e.g. 0 corresponds to the first `filter_button` instance below).
   filter_default: 0
-
+  # Choose how many pages you would like to display (0 = all pages)
+  count: 3
   # Filter toolbar (optional).
   # Add or remove as many filters (`filter_button` instances) as you like.
   # To show all items, set `tag` to "*".

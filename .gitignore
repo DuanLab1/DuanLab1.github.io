@@ -3,6 +3,8 @@
 .RData
 .Ruserdata
 .DS_Store
+static/.DS_Store
+assets/.DS_Store
 
 # folder
 public/
