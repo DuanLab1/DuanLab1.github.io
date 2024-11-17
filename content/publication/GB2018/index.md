@@ -33,7 +33,7 @@ publication_types: ["2"]
 publication: "*Genome Biology* 19(1): 80 (IF: 12.3)"
 publication_short: "*Genome Biology* 19(1): 80 (IF: 12.3)"
 
-abstract: A major challenge for effective application of CRISPR systems is to accurately predict the single guide RNA (sgRNA) on-target knockout efficacy and off-target profile, which would facilitate the optimized design of sgRNAs with high sensitivity and specificity. Here we present DeepCRISPR, a comprehensive computational platform to unify sgRNA on-target and off-target site prediction into one framework with deep learning, surpassing available state-of-the-art in silico tools
+abstract: A major challenge for effective application of CRISPR systems is to accurately predict the single guide RNA (sgRNA) on-target knockout efficacy and off-target profile, which would facilitate the optimized design of sgRNAs with high sensitivity and specificity. Here we present DeepCRISPR, a comprehensive computational platform to unify sgRNA on-target and off-target site prediction into one framework with deep learning, surpassing available state-of-the-art in silico tools.
 
 # Summary. An optional shortened abstract.
 summary: In addition, DeepCRISPR fully automates the identification of sequence and epigenetic features that may affect sgRNA knockout efficacy in a data-driven manner. DeepCRISPR is available at http://www.deepcrispr.net/.

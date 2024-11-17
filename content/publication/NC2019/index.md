@@ -28,10 +28,11 @@ publication_types: ["2"]
 publication: "*Nature Communications* 10(1): 2233. (IF: 12.12, 入选**2019年度中国生物信息学十大算法**)"
 publication_short: "*Nature Communications* 10(1): 2233. (IF: 12.12, 入选**2019年度中国生物信息学十大算法**)"
 
-abstract: The recently developed single-cell CRISPR screening techniques, independently termed Perturb-Seq, CRISP-seq, or CROP-seq, combine pooled CRISPR screening with single-cell RNA-seq to investigate functional CRISPR screening in a single-cell granularity. Here, we present MUSIC, an integrated pipeline for model-based understanding of single-cell CRISPR screening data. Comprehensive tests applied to all the publicly available data revealed that MUSIC accurately quantifies and prioritizes the individual gene perturbation effect on cell phenotypes with tolerance for the substantial noise that exists in such data analysis. MUSIC facilitates the single-cell CRISPR screening from three perspectives, i.e., prioritizing the gene perturbation effect as an overall perturbation effect, in a functional topic-specific way, and quantifying the relationships between different perturbations.
+abstract: The recently developed single-cell CRISPR screening techniques, independently termed Perturb-Seq, CRISP-seq, or CROP-seq, combine pooled CRISPR screening with single-cell RNA-seq to investigate functional CRISPR screening in a single-cell granularity. Here, we present MUSIC, an integrated pipeline for model-based understanding of single-cell CRISPR screening data. Comprehensive tests applied to all the publicly available data revealed that MUSIC accurately quantifies and prioritizes the individual gene perturbation effect on cell phenotypes with tolerance for the substantial noise that exists in such data analysis. MUSIC facilitates the single-cell CRISPR screening from three perspectives, i.e., prioritizing the gene perturbation effect as an overall perturbation effect, in a functional topic-specific way, and quantifying the relationships between different perturbations. [**MUSIC github**](https://github.com/DuanLab1/MUSIC).
 
 
 # Summary. An optional shortened abstract.
+
 summary: In summary, MUSIC provides an effective and applicable solution to elucidate perturbation function and biologic circuits by a model-based quantitative analysis of single-cell-based CRISPR screening data.
 
 tags:

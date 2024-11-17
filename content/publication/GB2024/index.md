@@ -25,7 +25,7 @@ publication_types: ["2"]
 publication: "*Genome Biology* 25(1): 73. (IF: 12.3)"
 publication_short: "*Genome Biology* 25(1): 73. (IF: 12.3)"
 
-abstract: With the rapid advancements in spatial transcriptome sequencing, multiple tissue slices are now available, enabling the integration and interpretation of spatial cellular landscapes. Herein, we introduce SpaDo, a tool for multi-slice spatial domain analysis, including modules for multi-slice spatial domain detection, reference-based annotation, and multiple slice clustering at both single-cell and spot resolutions. 
+abstract: With the rapid advancements in spatial transcriptome sequencing, multiple tissue slices are now available, enabling the integration and interpretation of spatial cellular landscapes. Herein, we introduce SpaDo, a tool for multi-slice spatial domain analysis, including modules for multi-slice spatial domain detection, reference-based annotation, and multiple slice clustering at both single-cell and spot resolutions. [**SpaDo github**](https://github.com/DuanLab1/SpaDo). 
 
 # Summary. An optional shortened abstract.
 summary: We demonstrate SpaDo’s effectiveness with over 40 multi-slice spatial transcriptome datasets from 7 sequencing platforms. Our findings highlight SpaDo’s potential to reveal novel biological insights in multi-slice spatial transcriptomes.

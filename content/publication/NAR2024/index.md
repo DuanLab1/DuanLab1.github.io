@@ -3,7 +3,7 @@ title: "PerturBase: a comprehensive database for single-cell perturbation data a
 authors:
 - Zhiting Wei
 - Duanmiao Si
-- Bin Duan#
+- Bin Duan
 - Yicheng Gao
 - Qian Yu
 - Zhenbo Zhang

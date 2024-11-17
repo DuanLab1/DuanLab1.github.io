@@ -28,7 +28,7 @@ publication_types: ["2"]
 publication: "*Science China Life Science*: 1-13. (IF: 10.38)"
 publication_short: "*Science China Life Science*: 1-13. (IF: 10.38)"
 
-abstract: The rapid accumulation of large-scale single-cell RNA-seq datasets from multiple institutions presents remarkable opportunities for automatically cell annotations through integrative analyses. However, the privacy issue has existed but being ignored, since we are limited to access and utilize all the reference datasets distributed in different institutions globally due to the prohibited data transmission across institutions by data regulation laws. To this end, we present scPrivacy, which is the first and generalized automatically single-cell type identification prototype to facilitate single cell annotations in a data privacy-preserving collaboration manner. 
+abstract: The rapid accumulation of large-scale single-cell RNA-seq datasets from multiple institutions presents remarkable opportunities for automatically cell annotations through integrative analyses. However, the privacy issue has existed but being ignored, since we are limited to access and utilize all the reference datasets distributed in different institutions globally due to the prohibited data transmission across institutions by data regulation laws. To this end, we present scPrivacy, which is the first and generalized automatically single-cell type identification prototype to facilitate single cell annotations in a data privacy-preserving collaboration manner. [**scPrivacy github**](https://github.com/DuanLab1/scPrivacy).
 
 
 # Summary. An optional shortened abstract.
