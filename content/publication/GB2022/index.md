@@ -1,8 +1,8 @@
 ---
 title: "A deep generative model for multi-view profiling of single-cell RNA-seq and ATAC-seq data"
 authors:
-- Gaoyang Li
-- Shaliu Fu
+- Gaoyang Li#
+- Shaliu Fu#
 - Shuguang Wang
 - Chenyu Zhu
 - Bin Duan
@@ -10,8 +10,9 @@ authors:
 - Qi Liu
 
 author_notes:
-- ""
-- ""
+- "contributed equally"
+- "contributed equally"
+
 date: "2022-01-12T00:00:00Z"
 doi: "https://doi.org/10.1186/s13059-021-02595-6"
 

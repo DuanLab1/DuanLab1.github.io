@@ -1,17 +1,17 @@
 ---
 title: "Single-cell omics: experimental workflow, data analyses and applications"
 authors:
-- Fengying Sun
-- Haoyan Li
-- Dongqing Sun
-- Shaliu Fu
-- Lei Gu
-- Xin Shao
-- Qinqin Wang
-- Xin Dong
-- Bin Duan
-- Feiyang Xing
-- Jun Wu
+- Fengying Sun#
+- Haoyan Li#
+- Dongqing Sun#
+- Shaliu Fu#
+- Lei Gu#
+- Xin Shao#
+- Qinqin Wang#
+- Xin Dong#
+- Bin Duan#
+- Feiyang Xing#
+- Jun Wu#
 - Minmin Xiao
 - Fangqing Zhao
 - Jing-Dong J. Han
@@ -23,8 +23,19 @@ authors:
 
 
 author_notes:
-- ""
-- ""
+- "contributed equally"
+- "contributed equally"
+- "contributed equally"
+- "contributed equally"
+- "contributed equally"
+- "contributed equally"
+- "contributed equally"
+- "contributed equally"
+- "contributed equally"
+- "contributed equally"
+- "contributed equally"
+
+
 date: "2024-07-23T00:00:00Z"
 doi: "https://doi.org/10.1007/s11427-023-2561-0"
 

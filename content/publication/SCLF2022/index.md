@@ -1,8 +1,8 @@
 ---
 title: "Privacy-preserving integration of multiple institutional data for single-cell type identification with scPrivacy"
 authors:
-- Shaoqi Chen
-- Bin Duan
+- Shaoqi Chen#
+- Bin Duan#
 - Chenyu Zhu
 - Chen Tang
 - Qiang Yang
@@ -10,8 +10,9 @@ authors:
 
 
 author_notes:
-- ""
-- ""
+- "contributed equally"
+- "contributed equally"
+
 date: "2022-12-15T00:00:00Z"
 doi: "https://doi.org/10.1007/s11427-022-2224-4"
 

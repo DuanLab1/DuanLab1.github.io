@@ -1,8 +1,8 @@
 ---
 title: "DeepCRISPR: optimized CRISPR guide RNA design by deep learning"
 authors:
-- Guohui Chuai
-- Hanhui Ma
+- Guohui Chuai#
+- Hanhui Ma#
 - Jifang Yan
 - Ming Chen
 - Nanfang Hong
@@ -15,8 +15,9 @@ authors:
 - Qi Liu
 
 author_notes:
-- ""
-- ""
+- "contributed equally"
+- "contributed equally"
+
 date: "2018-06-26T00:00:00Z"
 doi: "https://doi.org/10.1186/s13059-018-1459-4"
 

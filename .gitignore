@@ -5,6 +5,9 @@
 .DS_Store
 static/.DS_Store
 assets/.DS_Store
+content/.DS_Store
+content/publication/.DS_Store
+*/.DS_Store
 
 # folder
 public/

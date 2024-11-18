@@ -1,17 +1,18 @@
 ---
 title: "Integrating multiple references for single-cell assignment"
 authors:
-- Bin Duan
-- Shaoqi Chen
-- Xiaohan Chen
+- Bin Duan#
+- Shaoqi Chen#
+- Xiaohan Chen#
 - Chenyu Zhu
 - Chen Tang
 - Qi Liu
 
-
 author_notes:
-- ""
-- ""
+- "contributed equally"
+- "contributed equally"
+- "contributed equally"
+
 date: "2021-08-20T00:00:00Z"
 doi: "https://doi.org/10.1093/nar/gkab380"
 

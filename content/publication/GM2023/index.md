@@ -1,8 +1,8 @@
 ---
 title: "Personalized tumor combination therapy optimization using the single-cell transcriptome"
 authors:
-- Chen Tang
-- Shaliu Fu
+- Chen Tang#
+- Shaliu Fu#
 - Xuan Jin
 - Wannian Li
 - Feiyang Xing
@@ -10,10 +10,10 @@ authors:
 - Ping Wang
 - Qi Liu
 
-
 author_notes:
-- ""
-- ""
+- "contributed equally"
+- "contributed equally"
+
 date: "2023-12-01T00:00:00Z"
 doi: "https://doi.org/10.1186/s13073-023-01256-6"
 

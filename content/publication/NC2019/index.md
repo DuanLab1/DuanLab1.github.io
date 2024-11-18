@@ -1,7 +1,7 @@
 ---
 title: "Model-based understanding of single-cell CRISPR screening"
 authors:
-- Bin Duan
+- Bin Duan#
 - Chi Zhou
 - Chengyu Zhu
 - Yifei Yu
@@ -10,8 +10,9 @@ authors:
 
 
 author_notes:
+- "First author"
 - ""
-- ""
+
 date: "2019-05-20T00:00:00Z"
 doi: "https://doi.org/10.1038/s41467-019-10216-x"
 

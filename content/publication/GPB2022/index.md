@@ -1,16 +1,17 @@
 ---
 title: "DrSim: Similarity Learning for Transcriptional Phenotypic Drug Discovery"
 authors:
-- Zhiting Wei
-- Sheng Zhu
+- Zhiting Wei#
+- Sheng Zhu#
 - Xiaohan Chen
 - Chenyu Zhu
 - Bin Duan
 - Qi Liu
 
 author_notes:
-- ""
-- ""
+- "contributed equally"
+- "contributed equally"
+
 date: "2022-09-29T00:00:00Z"
 doi: "https://doi.org/10.1016/j.gpb.2022.09.006"
 

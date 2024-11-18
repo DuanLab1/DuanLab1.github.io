@@ -1,7 +1,7 @@
 ---
 title: "Learning for single-cell assignment"
 authors:
-- Bin Duan
+- Bin Duan#
 - Chenyu Zhu
 - Guohui Chuai
 - Chen Tang
@@ -10,8 +10,9 @@ authors:
 
 
 author_notes:
+- "first author"
 - ""
-- ""
+
 date: "2020-10-30T00:00:00Z"
 doi: "https://doi.org/10.1126/sciadv.abd0855"
 

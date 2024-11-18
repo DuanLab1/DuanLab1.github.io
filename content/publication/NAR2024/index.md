@@ -1,18 +1,21 @@
 ---
 title: "PerturBase: a comprehensive database for single-cell perturbation data analysis and visualization"
 authors:
-- Zhiting Wei
-- Duanmiao Si
-- Bin Duan
-- Yicheng Gao
+- Zhiting Wei#
+- Duanmiao Si#
+- Bin Duan#
+- Yicheng Gao#
 - Qian Yu
 - Zhenbo Zhang
 - Ling Guo
 - Qi Liu
 
 author_notes:
-- ""
-- ""
+- "contributed equally"
+- "contributed equally"
+- "contributed equally"
+- "contributed equally"
+
 date: "2024-10-08T00:00:00Z"
 doi: "https://doi.org/10.1093/nar/gkae858"
 

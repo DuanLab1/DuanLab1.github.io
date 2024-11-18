@@ -1,14 +1,16 @@
 ---
 title: "Multi-slice spatial transcriptome domain analysis with SpaDo"
 authors:
-- Bin Duan
-- Shaoqi Chen
-- Xiaojie Cheng
+- Bin Duan#
+- Shaoqi Chen#
+- Xiaojie Cheng#
 - Qi Liu
 
 author_notes:
-- ""
-- ""
+- "contributed equally"
+- "contributed equally"
+- "contributed equally"
+
 date: "2024-03-19T00:00:00Z"
 doi: "https://doi.org/10.1186/s13059-024-03213-x"
 
