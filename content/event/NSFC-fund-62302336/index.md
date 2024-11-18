@@ -1,5 +1,5 @@
 ---
-title: 基于空间转录组的多样本比对分析研究 (青年科学基金项目)
+title: 基于空间转录组的多样本比对分析研究
 subtitle: 
 
 # Link this post with a project

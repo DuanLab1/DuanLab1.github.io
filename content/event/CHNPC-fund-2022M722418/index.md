@@ -1,5 +1,5 @@
 ---
-title: 基于空间转录组的多尺度参考图谱模型构建及空间功能域比对 (中国博士后面上资助二等资助)
+title: 基于空间转录组的多尺度参考图谱模型构建及空间功能域比对
 subtitle: 
 
 # Link this post with a project

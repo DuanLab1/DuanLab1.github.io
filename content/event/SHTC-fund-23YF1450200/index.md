@@ -1,5 +1,5 @@
 ---
-title: 基于空间转录组的空间功能域⽐对研究 (上海市青年科技英才扬帆计划)
+title: 基于空间转录组的空间功能域⽐对研究
 subtitle: 
 
 # Link this post with a project

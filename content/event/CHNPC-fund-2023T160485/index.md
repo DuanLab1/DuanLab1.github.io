@@ -1,5 +1,5 @@
 ---
-title: 基于度量学习的单细胞参考数据集的评估研究 (博士后站中特别资助)
+title: 基于度量学习的单细胞参考数据集的评估研究
 subtitle: 
 
 # Link this post with a project
