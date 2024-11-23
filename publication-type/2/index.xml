@@ -5,12 +5,21 @@
     <link>/publication-type/2/</link>
       <atom:link href="/publication-type/2/index.xml" rel="self" type="application/rss+xml" />
     <description>2</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2024 Bin Duan</copyright><lastBuildDate>Tue, 08 Oct 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2024 Bin Duan</copyright><lastBuildDate>Fri, 22 Nov 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/media/icon_hub9a637e5d84e6d4c134f91fa57903eec_55838_512x512_fill_lanczos_center_3.png</url>
       <title>2</title>
       <link>/publication-type/2/</link>
     </image>
+    
+    <item>
+      <title>发表“人工智能驱动的肿瘤微环境下基因型-表型解析研究”主题演讲</title>
+      <link>/talk/%E5%8F%91%E8%A1%A8%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E9%A9%B1%E5%8A%A8%E7%9A%84%E8%82%BF%E7%98%A4%E5%BE%AE%E7%8E%AF%E5%A2%83%E4%B8%8B%E5%9F%BA%E5%9B%A0%E5%9E%8B-%E8%A1%A8%E5%9E%8B%E8%A7%A3%E6%9E%90%E7%A0%94%E7%A9%B6%E4%B8%BB%E9%A2%98%E6%BC%94%E8%AE%B2/</link>
+      <pubDate>Fri, 22 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>/talk/%E5%8F%91%E8%A1%A8%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E9%A9%B1%E5%8A%A8%E7%9A%84%E8%82%BF%E7%98%A4%E5%BE%AE%E7%8E%AF%E5%A2%83%E4%B8%8B%E5%9F%BA%E5%9B%A0%E5%9E%8B-%E8%A1%A8%E5%9E%8B%E8%A7%A3%E6%9E%90%E7%A0%94%E7%A9%B6%E4%B8%BB%E9%A2%98%E6%BC%94%E8%AE%B2/</guid>
+      <description>&lt;p&gt;2024年11月27日（星期三）11：30分在上海交通大学系统生物医学研究院发表“人工智能驱动的肿瘤微环境下基因型-表型解析研究”主题演讲。&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>PerturBase: a comprehensive database for single-cell perturbation data analysis and visualization</title>
