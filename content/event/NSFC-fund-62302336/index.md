@@ -6,7 +6,7 @@ subtitle:
 # projects: []
 
 # Date published
-date: "2024-11-16T00:00:00Z"
+date: "2024-10-16T00:00:00Z"
 
 # Is this an unpublished draft?
 draft: false
