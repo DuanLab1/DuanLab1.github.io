@@ -2,6 +2,8 @@
 
 set -ev
 
+# blogdown::install_hugo(version = "v0.105.0")
+
 Rscript -e "blogdown::check_site()"
 Rscript -e "blogdown::build_site()"
 Rscript -e "blogdown::clean_duplicates()"
