@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Xiaohan Chen | Duan Lab</title>
+    <link>https://binduanlab.org.cn/author/xiaohan-chen/</link>
+      <atom:link href="https://binduanlab.org.cn/author/xiaohan-chen/index.xml" rel="self" type="application/rss+xml" />
+    <description>Xiaohan Chen</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 29 Sep 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://binduanlab.org.cn/media/logo_huda291f0770511041ca0f31e8862614ad_4818_300x300_fit_lanczos_3.png</url>
+      <title>Xiaohan Chen</title>
+      <link>https://binduanlab.org.cn/author/xiaohan-chen/</link>
+    </image>
+    
+    <item>
+      <title>DrSim: Similarity Learning for Transcriptional Phenotypic Drug Discovery</title>
+      <link>https://binduanlab.org.cn/publication/2022-gpb-drsim/</link>
+      <pubDate>Thu, 29 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>https://binduanlab.org.cn/publication/2022-gpb-drsim/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Learning for single-cell assignment</title>
+      <link>https://binduanlab.org.cn/publication/2020-sa-learning-for-single-cell-assignment/</link>
+      <pubDate>Fri, 30 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>https://binduanlab.org.cn/publication/2020-sa-learning-for-single-cell-assignment/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

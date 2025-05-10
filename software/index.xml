@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Softwares | Duan Lab</title>
+    <link>https://binduanlab.org.cn/software/</link>
+      <atom:link href="https://binduanlab.org.cn/software/index.xml" rel="self" type="application/rss+xml" />
+    <description>Softwares</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 19 Mar 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://binduanlab.org.cn/media/logo_huda291f0770511041ca0f31e8862614ad_4818_300x300_fit_lanczos_3.png</url>
+      <title>Softwares</title>
+      <link>https://binduanlab.org.cn/software/</link>
+    </image>
+    
+    <item>
+      <title>SpaDo</title>
+      <link>https://binduanlab.org.cn/software/2024-spado/</link>
+      <pubDate>Tue, 19 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>https://binduanlab.org.cn/software/2024-spado/</guid>
+      <description>&lt;p&gt;&lt;code&gt;SpaDo&lt;/code&gt;, a tool for multi-slice spatial domain analysis, including modules for multi-slice spatial domain detection, reference-based annotation, and multiple slice clustering at both single-cell and spot resolutions.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>scPrivacy</title>
+      <link>https://binduanlab.org.cn/software/2022-scprivacy/</link>
+      <pubDate>Thu, 15 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>https://binduanlab.org.cn/software/2022-scprivacy/</guid>
+      <description>&lt;p&gt;&lt;code&gt;scPrivacy&lt;/code&gt;, which is the first and generalized automatically single-cell type identification prototype to facilitate single cell annotations in a data privacy-preserving collaboration manner.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>mtSC</title>
+      <link>https://binduanlab.org.cn/software/2021-mtsc/</link>
+      <pubDate>Fri, 20 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>https://binduanlab.org.cn/software/2021-mtsc/</guid>
+      <description>&lt;p&gt;&lt;code&gt;mtSC&lt;/code&gt;, a flexible single-cell assignment framework that integrates multiple references based on multitask deep metric learning designed specifically for cell type identification within tissues with multiple single-cell sequencing data as references.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>scLearn</title>
+      <link>https://binduanlab.org.cn/software/2020-sclearn/</link>
+      <pubDate>Fri, 30 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>https://binduanlab.org.cn/software/2020-sclearn/</guid>
+      <description>&lt;p&gt;&lt;code&gt;scLearn&lt;/code&gt;, a learning-based framework that automatically infers quantitative measurement/similarity and threshold that can be used for different single-cell assignment tasks, achieving a well-generalized assignment performance on different single-cell types.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>MUSIC</title>
+      <link>https://binduanlab.org.cn/software/2019-music/</link>
+      <pubDate>Sat, 20 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>https://binduanlab.org.cn/software/2019-music/</guid>
+      <description>&lt;p&gt;&lt;code&gt;MUSIC&lt;/code&gt; provides an effective and applicable solution to elucidate perturbation function and biologic circuits by a model-based quantitative analysis of single-cell-based CRISPR screening data.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

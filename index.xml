@@ -1,291 +1,400 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Duan Lab@SJTU</title>
-    <link>/</link>
-      <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
-    <description>Duan Lab@SJTU</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2025 Bin Duan</copyright><lastBuildDate>Mon, 14 Apr 2025 00:00:00 +0000</lastBuildDate>
+    <title>Duan Lab</title>
+    <link>https://binduanlab.org.cn/</link>
+      <atom:link href="https://binduanlab.org.cn/index.xml" rel="self" type="application/rss+xml" />
+    <description>Duan Lab</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 14 Apr 2025 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/media/icon_hub9a637e5d84e6d4c134f91fa57903eec_55838_512x512_fill_lanczos_center_3.png</url>
-      <title>Duan Lab@SJTU</title>
-      <link>/</link>
+      <url>https://binduanlab.org.cn/media/logo_huda291f0770511041ca0f31e8862614ad_4818_300x300_fit_lanczos_3.png</url>
+      <title>Duan Lab</title>
+      <link>https://binduanlab.org.cn/</link>
     </image>
     
     <item>
-      <title>Lab News</title>
-      <link>/post/post/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/post/post/</guid>
+      <title>Contact</title>
+      <link>https://binduanlab.org.cn/contact/</link>
+      <pubDate>Wed, 30 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://binduanlab.org.cn/contact/</guid>
       <description></description>
     </item>
     
     <item>
+      <title>Exploring morphological heterogeneity of circulating tumor cells: machine learning-based approach for cell identification and prognostic implications</title>
+      <link>https://binduanlab.org.cn/publication/2025-scibull-exploring-morphological-heterogeneity-of-circulating-tumor-cells/</link>
+      <pubDate>Wed, 30 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://binduanlab.org.cn/publication/2025-scibull-exploring-morphological-heterogeneity-of-circulating-tumor-cells/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Photos</title>
+      <link>https://binduanlab.org.cn/photo/</link>
+      <pubDate>Wed, 30 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://binduanlab.org.cn/photo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Software</title>
+      <link>https://binduanlab.org.cn/all_software/</link>
+      <pubDate>Wed, 30 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://binduanlab.org.cn/all_software/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>🔬 Research</title>
+      <link>https://binduanlab.org.cn/research/</link>
+      <pubDate>Tue, 29 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://binduanlab.org.cn/research/</guid>
+      <description>&lt;p&gt;Our research aims to utilize machine learning and artificial intelligence, combined with systems biology, to comprehensively characterize the genotypes, molecular phenotypes, and clinical phenotypes within the tumor microenvironment. Our goal is to explore the intricate relationships among these three aspects in order to contribute to the advancement of precision oncology.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>课题组长段斌参加第四届中国智能健康与生物信息大会</title>
-      <link>/talk/%E8%AF%BE%E9%A2%98%E7%BB%84%E9%95%BF%E6%AE%B5%E6%96%8C%E5%8F%82%E5%8A%A0%E7%AC%AC%E5%9B%9B%E5%B1%8A%E4%B8%AD%E5%9B%BD%E6%99%BA%E8%83%BD%E5%81%A5%E5%BA%B7%E4%B8%8E%E7%94%9F%E7%89%A9%E4%BF%A1%E6%81%AF%E5%A4%A7%E4%BC%9A/</link>
+      <link>https://binduanlab.org.cn/event/20250414-cihbc-commit/</link>
       <pubDate>Mon, 14 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>/talk/%E8%AF%BE%E9%A2%98%E7%BB%84%E9%95%BF%E6%AE%B5%E6%96%8C%E5%8F%82%E5%8A%A0%E7%AC%AC%E5%9B%9B%E5%B1%8A%E4%B8%AD%E5%9B%BD%E6%99%BA%E8%83%BD%E5%81%A5%E5%BA%B7%E4%B8%8E%E7%94%9F%E7%89%A9%E4%BF%A1%E6%81%AF%E5%A4%A7%E4%BC%9A/</guid>
+      <guid>https://binduanlab.org.cn/event/20250414-cihbc-commit/</guid>
       <description>&lt;p&gt;2025年4月，课题组长段斌受邀参加第四届中国智能健康与生物信息大会。&lt;/p&gt;
 </description>
     </item>
     
     <item>
+      <title>2025-04-13 Opportunities in Duan Lab</title>
+      <link>https://binduanlab.org.cn/news/20250413-recruitment/</link>
+      <pubDate>Sun, 13 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://binduanlab.org.cn/news/20250413-recruitment/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Join Duan Lab at Shanghai Jiao Tong University: Opportunities in Spatial Cell Atlas and Tumor Heterogeneity&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;We are looking to recruit postdoctoral fellow, Ph.D. student, and Master’s student from bioinformatics, computational biology, and mathematics, as well as several interns. If you are interested, please send your resume to &lt;a href=&#34;mailto:binduan@sjtu.edu.cn&#34;&gt;binduan@sjtu.edu.cn&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Current Openings:&lt;/strong&gt;&lt;/p&gt;
+&lt;h2 id=&#34;phd-candidates&#34;&gt;PhD Candidates&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;We seek candidates with:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;A strong foundation in bioinformatics, computational biology, or related fields.&lt;/li&gt;
+&lt;li&gt;Excellent communication skills and a collaborative nature.&lt;/li&gt;
+&lt;li&gt;Proficiency in English and strong writing capabilities.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;What we offer:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Comprehensive scholarships and stipends.&lt;/li&gt;
+&lt;li&gt;A collaborative, innovative research atmosphere.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;research-assistant-in-bioinformatics-and-computational-biology&#34;&gt;Research Assistant in Bioinformatics and Computational Biology&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;We seek candidates with:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;A foundation in bioinformatics, computational biology, or related fields.&lt;/li&gt;
+&lt;li&gt;Experience in data analysis using programming languages like R and Python.&lt;/li&gt;
+&lt;li&gt;Excellent communication skills and a team-player attitude.&lt;/li&gt;
+&lt;li&gt;Proficiency in English and strong writing skills.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;What we offer:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;A dynamic, innovative research environment.&lt;/li&gt;
+&lt;li&gt;State-of-the-art facilities and technology.&lt;/li&gt;
+&lt;li&gt;Professional growth opportunities.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;application-process&#34;&gt;Application Process&lt;/h2&gt;
+&lt;p&gt;For &lt;strong&gt;PhD, and Research Assistant&lt;/strong&gt; roles, submit your CV, a cover letter, and contact information for two or three references to &lt;a href=&#34;mailto:binduan@sjtu.edu.cn&#34;&gt;binduan@sjtu.edu.cn&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>课题组长段斌当选上海市药学会首届人工智能药学专业委员会青年委员会委员！</title>
-      <link>/talk/%E8%AF%BE%E9%A2%98%E7%BB%84%E9%95%BF%E6%AE%B5%E6%96%8C%E5%BD%93%E9%80%89%E4%B8%8A%E6%B5%B7%E5%B8%82%E8%8D%AF%E5%AD%A6%E4%BC%9A%E9%A6%96%E5%B1%8A%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E8%8D%AF%E5%AD%A6%E4%B8%93%E4%B8%9A%E5%A7%94%E5%91%98%E4%BC%9A%E9%9D%92%E5%B9%B4%E5%A7%94%E5%91%98%E4%BC%9A%E5%A7%94%E5%91%98/</link>
+      <link>https://binduanlab.org.cn/event/20250324-sjtu-aicommit/</link>
       <pubDate>Mon, 24 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>/talk/%E8%AF%BE%E9%A2%98%E7%BB%84%E9%95%BF%E6%AE%B5%E6%96%8C%E5%BD%93%E9%80%89%E4%B8%8A%E6%B5%B7%E5%B8%82%E8%8D%AF%E5%AD%A6%E4%BC%9A%E9%A6%96%E5%B1%8A%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E8%8D%AF%E5%AD%A6%E4%B8%93%E4%B8%9A%E5%A7%94%E5%91%98%E4%BC%9A%E9%9D%92%E5%B9%B4%E5%A7%94%E5%91%98%E4%BC%9A%E5%A7%94%E5%91%98/</guid>
+      <guid>https://binduanlab.org.cn/event/20250324-sjtu-aicommit/</guid>
       <description>&lt;p&gt;2025年3月，课题组长段斌当选上海市药学会首届人工智能药学专业委员会青年委员会委员。&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>2月22日课题组长段斌在系统生物医学教育部重点实验室2024年度学术委员会会议上做代表性学术报告</title>
-      <link>/talk/2%E6%9C%8822%E6%97%A5%E8%AF%BE%E9%A2%98%E7%BB%84%E9%95%BF%E6%AE%B5%E6%96%8C%E5%9C%A8%E7%B3%BB%E7%BB%9F%E7%94%9F%E7%89%A9%E5%8C%BB%E5%AD%A6%E6%95%99%E8%82%B2%E9%83%A8%E9%87%8D%E7%82%B9%E5%AE%9E%E9%AA%8C%E5%AE%A42024%E5%B9%B4%E5%BA%A6%E5%AD%A6%E6%9C%AF%E5%A7%94%E5%91%98%E4%BC%9A%E4%BC%9A%E8%AE%AE%E4%B8%8A%E5%81%9A%E4%BB%A3%E8%A1%A8%E6%80%A7%E5%AD%A6%E6%9C%AF%E6%8A%A5%E5%91%8A/</link>
+      <link>https://binduanlab.org.cn/event/20250225-sjtu-speech/</link>
       <pubDate>Tue, 25 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>/talk/2%E6%9C%8822%E6%97%A5%E8%AF%BE%E9%A2%98%E7%BB%84%E9%95%BF%E6%AE%B5%E6%96%8C%E5%9C%A8%E7%B3%BB%E7%BB%9F%E7%94%9F%E7%89%A9%E5%8C%BB%E5%AD%A6%E6%95%99%E8%82%B2%E9%83%A8%E9%87%8D%E7%82%B9%E5%AE%9E%E9%AA%8C%E5%AE%A42024%E5%B9%B4%E5%BA%A6%E5%AD%A6%E6%9C%AF%E5%A7%94%E5%91%98%E4%BC%9A%E4%BC%9A%E8%AE%AE%E4%B8%8A%E5%81%9A%E4%BB%A3%E8%A1%A8%E6%80%A7%E5%AD%A6%E6%9C%AF%E6%8A%A5%E5%91%8A/</guid>
+      <guid>https://binduanlab.org.cn/event/20250225-sjtu-speech/</guid>
       <description>&lt;p&gt;2025年2月22日（星期六），课题组长段斌在上海交通大学系统生物医学教育部重点实验室2024年度学术委员会会议上做代表性学术报告（报告主题：《基于细胞类型空间邻域嵌入的多切片空间域综合分析系统SpaDo》）。&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>11月27日课题组长段斌受邀上海交通大学系统生物医学研究院科研团队沙龙！</title>
-      <link>/talk/11%E6%9C%8827%E6%97%A5%E8%AF%BE%E9%A2%98%E7%BB%84%E9%95%BF%E6%AE%B5%E6%96%8C%E5%8F%97%E9%82%80%E4%B8%8A%E6%B5%B7%E4%BA%A4%E9%80%9A%E5%A4%A7%E5%AD%A6%E7%B3%BB%E7%BB%9F%E7%94%9F%E7%89%A9%E5%8C%BB%E5%AD%A6%E7%A0%94%E7%A9%B6%E9%99%A2%E7%A7%91%E7%A0%94%E5%9B%A2%E9%98%9F%E6%B2%99%E9%BE%99/</link>
+      <link>https://binduanlab.org.cn/event/20241127-sjtu-speech/</link>
       <pubDate>Fri, 22 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>/talk/11%E6%9C%8827%E6%97%A5%E8%AF%BE%E9%A2%98%E7%BB%84%E9%95%BF%E6%AE%B5%E6%96%8C%E5%8F%97%E9%82%80%E4%B8%8A%E6%B5%B7%E4%BA%A4%E9%80%9A%E5%A4%A7%E5%AD%A6%E7%B3%BB%E7%BB%9F%E7%94%9F%E7%89%A9%E5%8C%BB%E5%AD%A6%E7%A0%94%E7%A9%B6%E9%99%A2%E7%A7%91%E7%A0%94%E5%9B%A2%E9%98%9F%E6%B2%99%E9%BE%99/</guid>
+      <guid>https://binduanlab.org.cn/event/20241127-sjtu-speech/</guid>
       <description>&lt;p&gt;2024年11月27日（星期三），课题组长段斌在上海交通大学系统生物医学研究院发表“人工智能驱动的肿瘤微环境下基因型-表型解析研究”主题演讲。&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Inference of Genotype-Molecular Phenotype-Clinical Phenotype Associations</title>
-      <link>/research/inferenceassociation/</link>
+      <link>https://binduanlab.org.cn/research_brief/inferenceassociation/</link>
       <pubDate>Sat, 16 Nov 2024 16:32:42 +1300</pubDate>
-      <guid>/research/inferenceassociation/</guid>
+      <guid>https://binduanlab.org.cn/research_brief/inferenceassociation/</guid>
       <description>&lt;p&gt;Our research integrates genomic, molecular, and clinical data to infer the relationships between these different layers of tumor biology. We focus on identifying tumor biomarkers, understanding tumor evolution, and performing prognostic analysis, all of which are essential for early diagnosis, targeted therapy, and individualized patient prognosis.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Analysis of the Tumor Microenvironment</title>
-      <link>/research/tumormicroenvironment/</link>
+      <link>https://binduanlab.org.cn/research_brief/tumormicroenvironment/</link>
       <pubDate>Fri, 15 Nov 2024 16:32:42 +1300</pubDate>
-      <guid>/research/tumormicroenvironment/</guid>
+      <guid>https://binduanlab.org.cn/research_brief/tumormicroenvironment/</guid>
       <description>&lt;p&gt;We aim to explore the immune and microbiome microenvironments of tumors, investigating their composition and function, as well as their impact on tumor development. By integrating multi-omics data, we seek to reveal how the tumor microenvironment influences cancer progression.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Characterization and Prediction of Key Molecular Phenotypes</title>
-      <link>/research/keymolecularphenotypes/</link>
+      <link>https://binduanlab.org.cn/research_brief/keymolecularphenotypes/</link>
       <pubDate>Thu, 14 Nov 2024 16:32:42 +1300</pubDate>
-      <guid>/research/keymolecularphenotypes/</guid>
+      <guid>https://binduanlab.org.cn/research_brief/keymolecularphenotypes/</guid>
       <description>&lt;p&gt;This includes the systematic analysis and prediction of important molecular features, such as tumor hallmarks, cell types, cell states, and spatial domains, which serve as the basic functional units to characterize tumor cells.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>10月28日课题组长段斌受邀在同济大学生物信息系建系十五周年学术研讨会作学术报告！</title>
-      <link>/talk/10%E6%9C%8828%E6%97%A5%E8%AF%BE%E9%A2%98%E7%BB%84%E9%95%BF%E6%AE%B5%E6%96%8C%E5%8F%97%E9%82%80%E5%9C%A8%E5%90%8C%E6%B5%8E%E5%A4%A7%E5%AD%A6%E7%94%9F%E7%89%A9%E4%BF%A1%E6%81%AF%E7%B3%BB%E5%BB%BA%E7%B3%BB%E5%8D%81%E4%BA%94%E5%91%A8%E5%B9%B4%E5%AD%A6%E6%9C%AF%E7%A0%94%E8%AE%A8%E4%BC%9A%E4%BD%9C%E5%AD%A6%E6%9C%AF%E6%8A%A5%E5%91%8A/</link>
+      <link>https://binduanlab.org.cn/event/20241028-tju-speech/</link>
       <pubDate>Mon, 28 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>/talk/10%E6%9C%8828%E6%97%A5%E8%AF%BE%E9%A2%98%E7%BB%84%E9%95%BF%E6%AE%B5%E6%96%8C%E5%8F%97%E9%82%80%E5%9C%A8%E5%90%8C%E6%B5%8E%E5%A4%A7%E5%AD%A6%E7%94%9F%E7%89%A9%E4%BF%A1%E6%81%AF%E7%B3%BB%E5%BB%BA%E7%B3%BB%E5%8D%81%E4%BA%94%E5%91%A8%E5%B9%B4%E5%AD%A6%E6%9C%AF%E7%A0%94%E8%AE%A8%E4%BC%9A%E4%BD%9C%E5%AD%A6%E6%9C%AF%E6%8A%A5%E5%91%8A/</guid>
+      <guid>https://binduanlab.org.cn/event/20241028-tju-speech/</guid>
       <description>&lt;p&gt;2024年10月28日（星期一），课题组长段斌在同济大学发表“整合空间转录组多切片的空间域综合分析系统SpaDo”主题演讲。&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>喜获国自然的青年科学基金项目</title>
-      <link>/talk/%E5%96%9C%E8%8E%B7%E5%9B%BD%E8%87%AA%E7%84%B6%E7%9A%84%E9%9D%92%E5%B9%B4%E7%A7%91%E5%AD%A6%E5%9F%BA%E9%87%91%E9%A1%B9%E7%9B%AE/</link>
+      <link>https://binduanlab.org.cn/event/20240101-nsfc-fund-62302336/</link>
       <pubDate>Wed, 16 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>/talk/%E5%96%9C%E8%8E%B7%E5%9B%BD%E8%87%AA%E7%84%B6%E7%9A%84%E9%9D%92%E5%B9%B4%E7%A7%91%E5%AD%A6%E5%9F%BA%E9%87%91%E9%A1%B9%E7%9B%AE/</guid>
+      <guid>https://binduanlab.org.cn/event/20240101-nsfc-fund-62302336/</guid>
       <description>&lt;p&gt;国家自然科学基金委员会，青年科学基金项目，2024-01-01至2026-12-31，30万元，在研，&lt;strong&gt;主持&lt;/strong&gt;。&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>荣获上海市青年科技英才扬帆计划项目</title>
-      <link>/talk/%E8%8D%A3%E8%8E%B7%E4%B8%8A%E6%B5%B7%E5%B8%82%E9%9D%92%E5%B9%B4%E7%A7%91%E6%8A%80%E8%8B%B1%E6%89%8D%E6%89%AC%E5%B8%86%E8%AE%A1%E5%88%92%E9%A1%B9%E7%9B%AE/</link>
+      <link>https://binduanlab.org.cn/event/20230401-shtc-fund-23yf1450200/</link>
       <pubDate>Sun, 13 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>/talk/%E8%8D%A3%E8%8E%B7%E4%B8%8A%E6%B5%B7%E5%B8%82%E9%9D%92%E5%B9%B4%E7%A7%91%E6%8A%80%E8%8B%B1%E6%89%8D%E6%89%AC%E5%B8%86%E8%AE%A1%E5%88%92%E9%A1%B9%E7%9B%AE/</guid>
+      <guid>https://binduanlab.org.cn/event/20230401-shtc-fund-23yf1450200/</guid>
       <description>&lt;p&gt;上海市科学技术委员会，上海市青年科技英才扬帆计划，2023-04-01至2026-03-31，20万元，在研，&lt;strong&gt;主持&lt;/strong&gt;。&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>PerturBase: a comprehensive database for single-cell perturbation data analysis and visualization</title>
-      <link>/publication/nar2024/</link>
+      <link>https://binduanlab.org.cn/publication/2024-nar-perturbase/</link>
       <pubDate>Tue, 08 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>/publication/nar2024/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
-</description>
+      <guid>https://binduanlab.org.cn/publication/2024-nar-perturbase/</guid>
+      <description></description>
     </item>
     
     <item>
       <title>Single-cell omics: experimental workflow, data analyses and applications</title>
-      <link>/publication/scls2024/</link>
+      <link>https://binduanlab.org.cn/publication/2024-scls-single-cell-omics/</link>
       <pubDate>Tue, 23 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>/publication/scls2024/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
-</description>
+      <guid>https://binduanlab.org.cn/publication/2024-scls-single-cell-omics/</guid>
+      <description></description>
     </item>
     
     <item>
       <title>Multi-slice spatial transcriptome domain analysis with SpaDo</title>
-      <link>/publication/gb2024/</link>
+      <link>https://binduanlab.org.cn/publication/2024-gb-multi-slice-spatial-transcriptome-domain-analysis-with-spado/</link>
       <pubDate>Tue, 19 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>/publication/gb2024/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
+      <guid>https://binduanlab.org.cn/publication/2024-gb-multi-slice-spatial-transcriptome-domain-analysis-with-spado/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SpaDo</title>
+      <link>https://binduanlab.org.cn/software/2024-spado/</link>
+      <pubDate>Tue, 19 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>https://binduanlab.org.cn/software/2024-spado/</guid>
+      <description>&lt;p&gt;&lt;code&gt;SpaDo&lt;/code&gt;, a tool for multi-slice spatial domain analysis, including modules for multi-slice spatial domain detection, reference-based annotation, and multiple slice clustering at both single-cell and spot resolutions.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Personalized tumor combination therapy optimization using the single-cell transcriptome</title>
-      <link>/publication/gm2023/</link>
+      <link>https://binduanlab.org.cn/publication/2023-gm-personalized-tumor-combination-therapy-optimization-using-the-single-cell-transcriptome/</link>
       <pubDate>Fri, 01 Dec 2023 00:00:00 +0000</pubDate>
-      <guid>/publication/gm2023/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
-</description>
+      <guid>https://binduanlab.org.cn/publication/2023-gm-personalized-tumor-combination-therapy-optimization-using-the-single-cell-transcriptome/</guid>
+      <description></description>
     </item>
     
     <item>
       <title>Privacy-preserving integration of multiple institutional data for single-cell type identification with scPrivacy</title>
-      <link>/publication/sclf2022/</link>
+      <link>https://binduanlab.org.cn/publication/2022-sclf-scprivacy/</link>
       <pubDate>Thu, 15 Dec 2022 00:00:00 +0000</pubDate>
-      <guid>/publication/sclf2022/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
+      <guid>https://binduanlab.org.cn/publication/2022-sclf-scprivacy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>scPrivacy</title>
+      <link>https://binduanlab.org.cn/software/2022-scprivacy/</link>
+      <pubDate>Thu, 15 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>https://binduanlab.org.cn/software/2022-scprivacy/</guid>
+      <description>&lt;p&gt;&lt;code&gt;scPrivacy&lt;/code&gt;, which is the first and generalized automatically single-cell type identification prototype to facilitate single cell annotations in a data privacy-preserving collaboration manner.&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>People</title>
+      <link>https://binduanlab.org.cn/collaborators/</link>
+      <pubDate>Mon, 24 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://binduanlab.org.cn/collaborators/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>People</title>
+      <link>https://binduanlab.org.cn/team/</link>
+      <pubDate>Mon, 24 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://binduanlab.org.cn/team/</guid>
+      <description></description>
     </item>
     
     <item>
       <title>DrSim: Similarity Learning for Transcriptional Phenotypic Drug Discovery</title>
-      <link>/publication/gpb2022/</link>
+      <link>https://binduanlab.org.cn/publication/2022-gpb-drsim/</link>
       <pubDate>Thu, 29 Sep 2022 00:00:00 +0000</pubDate>
-      <guid>/publication/gpb2022/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
-</description>
+      <guid>https://binduanlab.org.cn/publication/2022-gpb-drsim/</guid>
+      <description></description>
     </item>
     
     <item>
       <title>A deep generative model for multi-view profiling of single-cell RNA-seq and ATAC-seq data</title>
-      <link>/publication/gb2022/</link>
+      <link>https://binduanlab.org.cn/publication/2022-gb-a-deep-generative-model-for-multi-view-profiling-of-single-cell-rna-seq-and-atac-seq-data/</link>
       <pubDate>Wed, 12 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>/publication/gb2022/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
-</description>
+      <guid>https://binduanlab.org.cn/publication/2022-gb-a-deep-generative-model-for-multi-view-profiling-of-single-cell-rna-seq-and-atac-seq-data/</guid>
+      <description></description>
     </item>
     
     <item>
       <title>Integrating multiple references for single-cell assignment</title>
-      <link>/publication/nar2021/</link>
+      <link>https://binduanlab.org.cn/publication/2021-nar-integrating-multiple-references-for-single-cell-assignment/</link>
       <pubDate>Fri, 20 Aug 2021 00:00:00 +0000</pubDate>
-      <guid>/publication/nar2021/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
+      <guid>https://binduanlab.org.cn/publication/2021-nar-integrating-multiple-references-for-single-cell-assignment/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>mtSC</title>
+      <link>https://binduanlab.org.cn/software/2021-mtsc/</link>
+      <pubDate>Fri, 20 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>https://binduanlab.org.cn/software/2021-mtsc/</guid>
+      <description>&lt;p&gt;&lt;code&gt;mtSC&lt;/code&gt;, a flexible single-cell assignment framework that integrates multiple references based on multitask deep metric learning designed specifically for cell type identification within tissues with multiple single-cell sequencing data as references.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Learning for single-cell assignment</title>
-      <link>/publication/sa2020/</link>
+      <link>https://binduanlab.org.cn/publication/2020-sa-learning-for-single-cell-assignment/</link>
       <pubDate>Fri, 30 Oct 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/sa2020/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
+      <guid>https://binduanlab.org.cn/publication/2020-sa-learning-for-single-cell-assignment/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>scLearn</title>
+      <link>https://binduanlab.org.cn/software/2020-sclearn/</link>
+      <pubDate>Fri, 30 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>https://binduanlab.org.cn/software/2020-sclearn/</guid>
+      <description>&lt;p&gt;&lt;code&gt;scLearn&lt;/code&gt;, a learning-based framework that automatically infers quantitative measurement/similarity and threshold that can be used for different single-cell assignment tasks, achieving a well-generalized assignment performance on different single-cell types.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Model-based understanding of single-cell CRISPR screening</title>
-      <link>/publication/nc2019/</link>
+      <link>https://binduanlab.org.cn/publication/2019-nc-model-based-understanding-of-single-cell-crispr-screening/</link>
       <pubDate>Mon, 20 May 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/nc2019/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
+      <guid>https://binduanlab.org.cn/publication/2019-nc-model-based-understanding-of-single-cell-crispr-screening/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MUSIC</title>
+      <link>https://binduanlab.org.cn/software/2019-music/</link>
+      <pubDate>Sat, 20 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>https://binduanlab.org.cn/software/2019-music/</guid>
+      <description>&lt;p&gt;&lt;code&gt;MUSIC&lt;/code&gt; provides an effective and applicable solution to elucidate perturbation function and biologic circuits by a model-based quantitative analysis of single-cell-based CRISPR screening data.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>DeepCRISPR: optimized CRISPR guide RNA design by deep learning</title>
-      <link>/publication/gb2018/</link>
+      <link>https://binduanlab.org.cn/publication/2018-gb-deepcrispr/</link>
       <pubDate>Tue, 26 Jun 2018 00:00:00 +0000</pubDate>
-      <guid>/publication/gb2018/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
+      <guid>https://binduanlab.org.cn/publication/2018-gb-deepcrispr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://binduanlab.org.cn/admin/config.yml</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://binduanlab.org.cn/admin/config.yml</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://binduanlab.org.cn/tour/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://binduanlab.org.cn/tour/</guid>
+      <description>&lt;h1 id=&#34;---&#34;&gt;&amp;mdash;&lt;/h1&gt;
+&lt;h1 id=&#34;date-2023-08-01&#34;&gt;date: &amp;ldquo;2023-08-01&amp;rdquo;&lt;/h1&gt;
+&lt;h1 id=&#34;sections&#34;&gt;sections:&lt;/h1&gt;
+&lt;h1 id=&#34;--block-slider&#34;&gt;- block: slider&lt;/h1&gt;
+&lt;h1 id=&#34;content&#34;&gt;content:&lt;/h1&gt;
+&lt;h1 id=&#34;slides&#34;&gt;slides:&lt;/h1&gt;
+&lt;h1 id=&#34;--align-center&#34;&gt;- align: center&lt;/h1&gt;
+&lt;h1 id=&#34;background&#34;&gt;background:&lt;/h1&gt;
+&lt;h1 id=&#34;color-666&#34;&gt;color: &amp;lsquo;#666&amp;rsquo;&lt;/h1&gt;
+&lt;h1 id=&#34;image&#34;&gt;image:&lt;/h1&gt;
+&lt;h1 id=&#34;filename-codersjpg&#34;&gt;filename: coders.jpg&lt;/h1&gt;
+&lt;h1 id=&#34;filters&#34;&gt;filters:&lt;/h1&gt;
+&lt;h1 id=&#34;brightness-07&#34;&gt;brightness: 0.7&lt;/h1&gt;
+&lt;h1 id=&#34;position-right&#34;&gt;position: right&lt;/h1&gt;
+&lt;h1 id=&#34;content-take-a-look-at-what-were-working-on&#34;&gt;content: Take a look at what we&amp;rsquo;re working on&amp;hellip;&lt;/h1&gt;
+&lt;h1 id=&#34;title-u0001f44b-welcome-to-the-group&#34;&gt;title: &amp;ldquo;\U0001F44B Welcome to the group&amp;rdquo;&lt;/h1&gt;
+&lt;h1 id=&#34;--align-left&#34;&gt;- align: left&lt;/h1&gt;
+&lt;h1 id=&#34;background-1&#34;&gt;background:&lt;/h1&gt;
+&lt;h1 id=&#34;color-555&#34;&gt;color: &amp;lsquo;#555&amp;rsquo;&lt;/h1&gt;
+&lt;h1 id=&#34;image-1&#34;&gt;image:&lt;/h1&gt;
+&lt;h1 id=&#34;filename-contactjpg&#34;&gt;filename: contact.jpg&lt;/h1&gt;
+&lt;h1 id=&#34;filters-1&#34;&gt;filters:&lt;/h1&gt;
+&lt;h1 id=&#34;brightness-07-1&#34;&gt;brightness: 0.7&lt;/h1&gt;
+&lt;h1 id=&#34;position-center&#34;&gt;position: center&lt;/h1&gt;
+&lt;h1 id=&#34;content-share-your-knowledge-with-the-group-and-explore-exciting-new-topics&#34;&gt;content: Share your knowledge with the group and explore exciting new topics&lt;/h1&gt;
+&lt;h1 id=&#34;together&#34;&gt;together!&lt;/h1&gt;
+&lt;h1 id=&#34;title-lunch--learn-&#34;&gt;title: Lunch &amp;amp; Learn ☕️&lt;/h1&gt;
+&lt;h1 id=&#34;--align-right&#34;&gt;- align: right&lt;/h1&gt;
+&lt;h1 id=&#34;background-2&#34;&gt;background:&lt;/h1&gt;
+&lt;h1 id=&#34;color-333&#34;&gt;color: &amp;lsquo;#333&amp;rsquo;&lt;/h1&gt;
+&lt;h1 id=&#34;image-2&#34;&gt;image:&lt;/h1&gt;
+&lt;h1 id=&#34;filename-welcomejpg&#34;&gt;filename: welcome.jpg&lt;/h1&gt;
+&lt;h1 id=&#34;filters-2&#34;&gt;filters:&lt;/h1&gt;
+&lt;h1 id=&#34;brightness-05&#34;&gt;brightness: 0.5&lt;/h1&gt;
+&lt;h1 id=&#34;position-center-1&#34;&gt;position: center&lt;/h1&gt;
+&lt;h1 id=&#34;content-just-opened-last-month&#34;&gt;content: Just opened last month!&lt;/h1&gt;
+&lt;h1 id=&#34;link&#34;&gt;link:&lt;/h1&gt;
+&lt;h1 id=&#34;icon-graduation-cap&#34;&gt;icon: graduation-cap&lt;/h1&gt;
+&lt;h1 id=&#34;icon_pack-fas&#34;&gt;icon_pack: fas&lt;/h1&gt;
+&lt;h1 id=&#34;text-join-us&#34;&gt;text: Join Us&lt;/h1&gt;
+&lt;h1 id=&#34;url-contact&#34;&gt;url: ../contact/&lt;/h1&gt;
+&lt;h1 id=&#34;title-world-class-semiconductor-lab&#34;&gt;title: World-Class Semiconductor Lab&lt;/h1&gt;
+&lt;h1 id=&#34;design&#34;&gt;design:&lt;/h1&gt;
+&lt;h1 id=&#34;interval-2000&#34;&gt;interval: 2000&lt;/h1&gt;
+&lt;h1 id=&#34;is_fullscreen-true&#34;&gt;is_fullscreen: true&lt;/h1&gt;
+&lt;h1 id=&#34;loop-false&#34;&gt;loop: false&lt;/h1&gt;
+&lt;h1 id=&#34;slide_height-&#34;&gt;slide_height: &amp;quot;&amp;quot;&lt;/h1&gt;
+&lt;h1 id=&#34;title-tour&#34;&gt;title: Tour&lt;/h1&gt;
+&lt;h1 id=&#34;type-landing&#34;&gt;type: landing&lt;/h1&gt;
+&lt;h1 id=&#34;----1&#34;&gt;&amp;mdash;&lt;/h1&gt;
 </description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>/admin/config.yml</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/admin/config.yml</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>/contact/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/contact/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>/people/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/people/</guid>
-      <description></description>
     </item>
     
   </channel>

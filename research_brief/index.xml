@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Research | Duan Lab</title>
+    <link>https://binduanlab.org.cn/research_brief/</link>
+      <atom:link href="https://binduanlab.org.cn/research_brief/index.xml" rel="self" type="application/rss+xml" />
+    <description>Research</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 16 Nov 2024 16:32:42 +1300</lastBuildDate>
+    <image>
+      <url>https://binduanlab.org.cn/media/logo_huda291f0770511041ca0f31e8862614ad_4818_300x300_fit_lanczos_3.png</url>
+      <title>Research</title>
+      <link>https://binduanlab.org.cn/research_brief/</link>
+    </image>
+    
+    <item>
+      <title>Inference of Genotype-Molecular Phenotype-Clinical Phenotype Associations</title>
+      <link>https://binduanlab.org.cn/research_brief/inferenceassociation/</link>
+      <pubDate>Sat, 16 Nov 2024 16:32:42 +1300</pubDate>
+      <guid>https://binduanlab.org.cn/research_brief/inferenceassociation/</guid>
+      <description>&lt;p&gt;Our research integrates genomic, molecular, and clinical data to infer the relationships between these different layers of tumor biology. We focus on identifying tumor biomarkers, understanding tumor evolution, and performing prognostic analysis, all of which are essential for early diagnosis, targeted therapy, and individualized patient prognosis.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Analysis of the Tumor Microenvironment</title>
+      <link>https://binduanlab.org.cn/research_brief/tumormicroenvironment/</link>
+      <pubDate>Fri, 15 Nov 2024 16:32:42 +1300</pubDate>
+      <guid>https://binduanlab.org.cn/research_brief/tumormicroenvironment/</guid>
+      <description>&lt;p&gt;We aim to explore the immune and microbiome microenvironments of tumors, investigating their composition and function, as well as their impact on tumor development. By integrating multi-omics data, we seek to reveal how the tumor microenvironment influences cancer progression.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Characterization and Prediction of Key Molecular Phenotypes</title>
+      <link>https://binduanlab.org.cn/research_brief/keymolecularphenotypes/</link>
+      <pubDate>Thu, 14 Nov 2024 16:32:42 +1300</pubDate>
+      <guid>https://binduanlab.org.cn/research_brief/keymolecularphenotypes/</guid>
+      <description>&lt;p&gt;This includes the systematic analysis and prediction of important molecular features, such as tumor hallmarks, cell types, cell states, and spatial domains, which serve as the basic functional units to characterize tumor cells.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

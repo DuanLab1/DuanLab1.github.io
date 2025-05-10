@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Drug Discovery | Duan Lab</title>
+    <link>https://binduanlab.org.cn/tag/drug-discovery/</link>
+      <atom:link href="https://binduanlab.org.cn/tag/drug-discovery/index.xml" rel="self" type="application/rss+xml" />
+    <description>Drug Discovery</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 29 Sep 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://binduanlab.org.cn/media/logo_huda291f0770511041ca0f31e8862614ad_4818_300x300_fit_lanczos_3.png</url>
+      <title>Drug Discovery</title>
+      <link>https://binduanlab.org.cn/tag/drug-discovery/</link>
+    </image>
+    
+    <item>
+      <title>DrSim: Similarity Learning for Transcriptional Phenotypic Drug Discovery</title>
+      <link>https://binduanlab.org.cn/publication/2022-gpb-drsim/</link>
+      <pubDate>Thu, 29 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>https://binduanlab.org.cn/publication/2022-gpb-drsim/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Xiaojie Cheng# | Duan Lab</title>
+    <link>https://binduanlab.org.cn/author/xiaojie-cheng/</link>
+      <atom:link href="https://binduanlab.org.cn/author/xiaojie-cheng/index.xml" rel="self" type="application/rss+xml" />
+    <description>Xiaojie Cheng#</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 19 Mar 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://binduanlab.org.cn/media/logo_huda291f0770511041ca0f31e8862614ad_4818_300x300_fit_lanczos_3.png</url>
+      <title>Xiaojie Cheng#</title>
+      <link>https://binduanlab.org.cn/author/xiaojie-cheng/</link>
+    </image>
+    
+    <item>
+      <title>Multi-slice spatial transcriptome domain analysis with SpaDo</title>
+      <link>https://binduanlab.org.cn/publication/2024-gb-multi-slice-spatial-transcriptome-domain-analysis-with-spado/</link>
+      <pubDate>Tue, 19 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>https://binduanlab.org.cn/publication/2024-gb-multi-slice-spatial-transcriptome-domain-analysis-with-spado/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

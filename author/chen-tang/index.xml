@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Chen Tang | Duan Lab</title>
+    <link>https://binduanlab.org.cn/author/chen-tang/</link>
+      <atom:link href="https://binduanlab.org.cn/author/chen-tang/index.xml" rel="self" type="application/rss+xml" />
+    <description>Chen Tang</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 15 Dec 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://binduanlab.org.cn/media/logo_huda291f0770511041ca0f31e8862614ad_4818_300x300_fit_lanczos_3.png</url>
+      <title>Chen Tang</title>
+      <link>https://binduanlab.org.cn/author/chen-tang/</link>
+    </image>
+    
+    <item>
+      <title>Privacy-preserving integration of multiple institutional data for single-cell type identification with scPrivacy</title>
+      <link>https://binduanlab.org.cn/publication/2022-sclf-scprivacy/</link>
+      <pubDate>Thu, 15 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>https://binduanlab.org.cn/publication/2022-sclf-scprivacy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Integrating multiple references for single-cell assignment</title>
+      <link>https://binduanlab.org.cn/publication/2021-nar-integrating-multiple-references-for-single-cell-assignment/</link>
+      <pubDate>Fri, 20 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>https://binduanlab.org.cn/publication/2021-nar-integrating-multiple-references-for-single-cell-assignment/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Learning for single-cell assignment</title>
+      <link>https://binduanlab.org.cn/publication/2020-sa-learning-for-single-cell-assignment/</link>
+      <pubDate>Fri, 30 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>https://binduanlab.org.cn/publication/2020-sa-learning-for-single-cell-assignment/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

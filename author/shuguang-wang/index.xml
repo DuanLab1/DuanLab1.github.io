@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Shuguang Wang | Duan Lab</title>
+    <link>https://binduanlab.org.cn/author/shuguang-wang/</link>
+      <atom:link href="https://binduanlab.org.cn/author/shuguang-wang/index.xml" rel="self" type="application/rss+xml" />
+    <description>Shuguang Wang</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 12 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://binduanlab.org.cn/media/logo_huda291f0770511041ca0f31e8862614ad_4818_300x300_fit_lanczos_3.png</url>
+      <title>Shuguang Wang</title>
+      <link>https://binduanlab.org.cn/author/shuguang-wang/</link>
+    </image>
+    
+    <item>
+      <title>A deep generative model for multi-view profiling of single-cell RNA-seq and ATAC-seq data</title>
+      <link>https://binduanlab.org.cn/publication/2022-gb-a-deep-generative-model-for-multi-view-profiling-of-single-cell-rna-seq-and-atac-seq-data/</link>
+      <pubDate>Wed, 12 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://binduanlab.org.cn/publication/2022-gb-a-deep-generative-model-for-multi-view-profiling-of-single-cell-rna-seq-and-atac-seq-data/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
