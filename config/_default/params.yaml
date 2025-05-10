@@ -6,23 +6,25 @@
 # Appearance
 
 appearance:
-  theme_day: minimal
-  theme_night: minimal
-  font: minimal
-  font_size: L
+  theme_day: ntu2
+  theme_night: ntu2
+  font: ntu3
+  font_size: M
 
 # SEO
 
 marketing:
   seo:
-    site_type: Person
+    site_type: Organization
     local_business_type: ''
     org_name: ''
-    description: ''
-    twitter: ''
+    description: 'A highly-customizable Hugo research group theme powered by Wowchemy website builder.'
+    twitter: 'wowchemy'
   analytics:
     google_analytics: ''
     baidu_tongji: ''
+    google_tag_manager: ''
+    microsoft_clarity: ''
   verification:
     google: ''
     baidu: ''
@@ -31,10 +33,12 @@ marketing:
 
 header:
   navbar:
+    block: navbar
     enable: true
-    align: l
+    align: r
     show_logo: true
     show_language: false
+    show_translations: true
     show_day_night: true
     show_search: true
     highlight_active_link: true
@@ -42,11 +46,12 @@ header:
 # Site footer
 
 footer:
+  block: minimal2
   copyright:
-    notice: '© {year} Duan Lab. This work is licensed under {license}'
+    notice: '© {year} Duan Lab @ [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/)'
     license:
-      enable: true
-      allow_derivatives: false
+      enable: false
+      allow_derivatives: true
       share_alike: true
       allow_commercial: false
 
@@ -60,28 +65,30 @@ locale:
 # Site features
 
 features:
+  responses:
+    positive: 'Glad to hear it! [Any ideas for improvements?](https://github.com/<USERNAME>/<REPO>/issues/new)'
+    negative: 'Sorry to hear that. [Please tell us how we can improve](https://github.com/<USERNAME>/<REPO>/issues/new).'
   syntax_highlighter:
+    theme_light: dracula
+    theme_dark: dracula
     enable: true
     extra_languages:
       - r
       - latex
-      - python
-      - bash
-    theme_light: github-light
-    theme_dark: dracula
   math:
-    enable: false
+    enable: true
   privacy_pack:
-    enable: false
+    enable: true
   repository:
     url: 'https://github.com/DuanLab1/DuanLab1.github.io'
     content_dir: content
-    branch: master
+    branch: main
+    editable: true
   avatar:
     gravatar: false
     shape: circle
   comment:
-    provider: ''
+    provider: 'disqus'
     disqus:
       shortname: ''
       show_count: true
@@ -93,14 +100,14 @@ features:
       category: ''
       category_id: ''
   search:
-    provider: BinDuan
+    provider: wowchemy
     algolia:
       app_id: ''
       api_key: ''
       index_name: ''
-      show_logo: false
+      show_logo: true
   map:
-    provider: ''
+    provider: 'mapnik'
     api_key: ''
     zoom: 15
 
@@ -109,12 +116,19 @@ features:
 extensions:
   cms:
     branch: main
-    local_backend: false
+    local_backend: true
   academicons:
     enable: true
 
-# Security
+# Citation style
 
-security:
-  # Allow frame for embedding speaker notes in slides
-  allow_frame: true
+publications:
+  date_format: January 2006
+  citation_style: apa
+
+params:
+  social:
+    - icon: github
+      icon_pack: fab
+      link: https://github.com/DuanLab1/
+

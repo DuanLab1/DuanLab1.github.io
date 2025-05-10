@@ -123,13 +123,13 @@
   translation: See all
 
 - id: more_posts
-  translation: See all posts
+  translation: All news
 
 - id: more_talks
-  translation: See all events
+  translation: All events
 
 - id: more_publications
-  translation: See all publications
+  translation: All publications
 
 # Contact widget
 
@@ -265,7 +265,7 @@
 # Published with
 
 - id: published_with
-  translation: Published with {wowchemy} — the free, {repo_link}open source{/repo_link} website builder that empowers creators.
+  translation: Powered by {wowchemy} and [Hugo](https://gohugo.io/). `:grin:`
 
 # Feedback widget
 

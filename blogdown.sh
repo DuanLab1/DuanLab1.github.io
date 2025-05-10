@@ -2,7 +2,7 @@
 
 set -ev
 
-# blogdown::install_hugo(version = "v0.105.0")
+# blogdown::install_hugo(version = "0.116.1")
 
 Rscript -e "blogdown::check_site()"
 Rscript -e "blogdown::build_site()"
