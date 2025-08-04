@@ -310,7 +310,7 @@ sections:
       - icon: github
         icon_pack: fab
         name: Follow us on Github
-        link: https://github.com/DuanLab1
+        link: https://github.com/Duan-Lab1
     # Automatically link email and phone or display as text?
     autolink: true
     # Email form provider
@@ -343,7 +343,7 @@ sections:
 #   id: github
 #   content:
 #     title: 😺 GitHub
-#     subtitle: ":point_right: [GitHub Link](https://github.com/DuanLab1)"
+#     subtitle: ":point_right: [GitHub Link](https://github.com/Duan-Lab1)"
 #     text: |-
 #       <img src="http://ghchart.rshah.org/jaspershen" alt="jaspershen-lab" width = "100%"/>
 #   design:

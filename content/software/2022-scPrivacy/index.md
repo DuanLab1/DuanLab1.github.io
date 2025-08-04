@@ -9,11 +9,11 @@ links:
 #- icon: house
 #  icon_pack: fas
 #  name: Link
-#  url: https://github.com/DuanLab1/scPrivacy
+#  url: https://github.com/Duan-Lab1/scPrivacy
 - icon: github
   icon_pack: fab
   name: Code
-  url: https://github.com/DuanLab1/scPrivacy
+  url: https://github.com/Duan-Lab1/scPrivacy
 slides: 
 summary:
 tags:

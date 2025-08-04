@@ -36,7 +36,7 @@ social:
   icon: github
   icon_pack: fab
   label: Follow us on GitHub
-  link: https://github.com/DuanLab1
+  link: https://github.com/Duan-Lab1
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com.hk/citations?user=9Y_kuWcAAAAJ&hl=zh-CN

@@ -9,11 +9,11 @@ links:
 #- icon: house
 #  icon_pack: fas
 #  name: Link
-#  url: https://github.com/DuanLab1/SpaDo
+#  url: https://github.com/Duan-Lab1/SpaDo
 - icon: github
   icon_pack: fab
   name: Code
-  url: https://github.com/DuanLab1/SpaDo
+  url: https://github.com/Duan-Lab1/SpaDo
 slides: 
 summary:
 tags:

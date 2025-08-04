@@ -37,7 +37,7 @@ sections:
       - icon: github
         icon_pack: fab
         name: Follow us on Github
-        link: https://github.com/DuanLab1
+        link: https://github.com/Duan-Lab1
     #phone: +65 83042333
     text: 
     title: Contact
