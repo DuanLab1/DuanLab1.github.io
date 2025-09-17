@@ -6,7 +6,7 @@ image:
   placement: 2
 math: true
 commentable: true
-title: 2025-04-13 Opportunities in Duan Lab 
+title: Opportunities in Duan Lab 
 # links:
 # - icon: file-pdf
 #   icon_pack: fas
