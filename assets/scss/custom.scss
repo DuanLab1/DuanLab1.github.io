@@ -1,0 +1,6 @@
+/* 让 logo 放大 1.5 倍 */
+.navbar-brand img {
+  width: auto;
+  height: auto;
+  max-height: 90px;   /* 默认一般是 60 px，按需调 */
+}
