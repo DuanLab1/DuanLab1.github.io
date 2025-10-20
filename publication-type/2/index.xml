@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>2 | Duan Lab</title>
+    <title>2 | Duan Lab@SJTU</title>
     <link>https://binduanlab.org.cn/publication-type/2/</link>
       <atom:link href="https://binduanlab.org.cn/publication-type/2/index.xml" rel="self" type="application/rss+xml" />
     <description>2</description>
@@ -18,6 +18,15 @@
       <pubDate>Wed, 30 Apr 2025 00:00:00 +0000</pubDate>
       <guid>https://binduanlab.org.cn/publication/2025-scibull-exploring-morphological-heterogeneity-of-circulating-tumor-cells/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>课题组长段斌参加2025年第四届全国系统生物学大会并发表演讲</title>
+      <link>https://binduanlab.org.cn/event/20251018-csbm/</link>
+      <pubDate>Mon, 14 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://binduanlab.org.cn/event/20251018-csbm/</guid>
+      <description>&lt;p&gt;2025年10月，课题组长段斌受邀参加2025年第四届全国系统生物学大会并发表主题为&lt;strong&gt;Linking Spatial Transcriptomics to Clinical Phenotypes with Interpretable Machine Learning&lt;/strong&gt;的演讲。&lt;/p&gt;
+</description>
     </item>
     
     <item>

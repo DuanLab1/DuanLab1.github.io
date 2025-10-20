@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Duan Lab</title>
+    <title>Duan Lab@SJTU</title>
     <link>https://binduanlab.org.cn/</link>
       <atom:link href="https://binduanlab.org.cn/index.xml" rel="self" type="application/rss+xml" />
-    <description>Duan Lab</description>
+    <description>Duan Lab@SJTU</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 14 Apr 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://binduanlab.org.cn/media/logo_hu6dae494f8ff2413ae13a6270391f9ca3_2645000_300x300_fit_lanczos_3.png</url>
-      <title>Duan Lab</title>
+      <title>Duan Lab@SJTU</title>
       <link>https://binduanlab.org.cn/</link>
     </image>
     
@@ -65,6 +65,15 @@
       <pubDate>Tue, 29 Apr 2025 00:00:00 +0000</pubDate>
       <guid>https://binduanlab.org.cn/research/</guid>
       <description>&lt;p&gt;Our research aims to utilize machine learning and artificial intelligence, combined with systems biology, to comprehensively characterize the genotypes, molecular phenotypes, and clinical phenotypes within the tumor microenvironment. Our goal is to explore the intricate relationships among these three aspects in order to contribute to the advancement of precision oncology.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>课题组长段斌参加2025年第四届全国系统生物学大会并发表演讲</title>
+      <link>https://binduanlab.org.cn/event/20251018-csbm/</link>
+      <pubDate>Mon, 14 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://binduanlab.org.cn/event/20251018-csbm/</guid>
+      <description>&lt;p&gt;2025年10月，课题组长段斌受邀参加2025年第四届全国系统生物学大会并发表主题为&lt;strong&gt;Linking Spatial Transcriptomics to Clinical Phenotypes with Interpretable Machine Learning&lt;/strong&gt;的演讲。&lt;/p&gt;
 </description>
     </item>
     
