@@ -1,5 +1,5 @@
 ---
-title: 课题组长段斌参加2025年第四届全国系统生物学大会并发表演讲
+title: 课题组长段斌受邀参加2025年第四届全国系统生物学大会并发表演讲
 subtitle: 
 
 # Link this post with a project

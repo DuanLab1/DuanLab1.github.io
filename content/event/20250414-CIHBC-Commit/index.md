@@ -1,5 +1,5 @@
 ---
-title: 课题组长段斌参加第四届中国智能健康与生物信息大会
+title: 课题组长段斌受邀参加第四届中国智能健康与生物信息大会
 subtitle: 
 
 # Link this post with a project

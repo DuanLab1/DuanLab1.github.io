@@ -1,5 +1,5 @@
 ---
-title: 11月27日课题组长段斌受邀上海交通大学系统生物医学研究院科研团队沙龙！
+title: 11月27日课题组长段斌受邀参加上海交通大学系统生物医学研究院科研团队沙龙！
 subtitle: 
 
 # Link this post with a project
