@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Feiyang Xing# | Duan Lab@SJTU</title>
+    <title>Feiyang Xing | Duan Lab@SJTU</title>
     <link>https://binduanlab.org.cn/author/feiyang-xing/</link>
       <atom:link href="https://binduanlab.org.cn/author/feiyang-xing/index.xml" rel="self" type="application/rss+xml" />
-    <description>Feiyang Xing#</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 23 Jul 2024 00:00:00 +0000</lastBuildDate>
+    <description>Feiyang Xing</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Dec 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://binduanlab.org.cn/media/logo_hu6dae494f8ff2413ae13a6270391f9ca3_2645000_300x300_fit_lanczos_3.png</url>
-      <title>Feiyang Xing#</title>
+      <title>Feiyang Xing</title>
       <link>https://binduanlab.org.cn/author/feiyang-xing/</link>
     </image>
     
     <item>
-      <title>Single-cell omics: experimental workflow, data analyses and applications</title>
-      <link>https://binduanlab.org.cn/publication/2024-scls-single-cell-omics/</link>
-      <pubDate>Tue, 23 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>https://binduanlab.org.cn/publication/2024-scls-single-cell-omics/</guid>
+      <title>Personalized tumor combination therapy optimization using the single-cell transcriptome</title>
+      <link>https://binduanlab.org.cn/publication/2023-gm-personalized-tumor-combination-therapy-optimization-using-the-single-cell-transcriptome/</link>
+      <pubDate>Fri, 01 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>https://binduanlab.org.cn/publication/2023-gm-personalized-tumor-combination-therapy-optimization-using-the-single-cell-transcriptome/</guid>
       <description></description>
     </item>
     
