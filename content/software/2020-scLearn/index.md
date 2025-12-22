@@ -13,7 +13,7 @@ links:
 - icon: github
   icon_pack: fab
   name: Code
-  url: https://github.com/DDuan-Lab1/scLearn
+  url: https://github.com/Duan-Lab1/scLearn
 slides: 
 summary:
 tags:

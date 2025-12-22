@@ -71,11 +71,8 @@ sections:
         </style>
 
         <div class="gallery">
-
-        <div class="image-container">
-            <img src="lab/2025-4-13-HMU.jpg" alt="2025/4/13 Bin visited HMU" onclick="toggleZoom(this.parentElement)">
-            <div class="caption">2025/4/13 Bin visited HMU</div>
-          </div>
+        <div class="image-container"><img src="lab/2025-04-13-HMU.jpg" alt="2025/4/13 Bin visited HMU" onclick="toggleZoom(this.parentElement)"><div class="caption">2025/4/13 Bin visited HMU</div></div>
+        <div class="image-container"><img src="lab/2025-12-19-Basketball.jpg" alt="2025/12/19 Basketball" onclick="toggleZoom(this.parentElement)"><div class="caption">2025/12/19 Basketball</div></div>
 
 
         <script>
