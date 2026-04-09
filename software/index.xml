@@ -5,12 +5,21 @@
     <link>https://binduanlab.org.cn/software/</link>
       <atom:link href="https://binduanlab.org.cn/software/index.xml" rel="self" type="application/rss+xml" />
     <description>Softwares</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 19 Mar 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 09 Apr 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://binduanlab.org.cn/media/logo_hu6dae494f8ff2413ae13a6270391f9ca3_2645000_300x300_fit_lanczos_3.png</url>
       <title>Softwares</title>
       <link>https://binduanlab.org.cn/software/</link>
     </image>
+    
+    <item>
+      <title>SpaPheno</title>
+      <link>https://binduanlab.org.cn/software/2026-spapheno/</link>
+      <pubDate>Thu, 09 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>https://binduanlab.org.cn/software/2026-spapheno/</guid>
+      <description>&lt;p&gt;&lt;code&gt;SpaPheno&lt;/code&gt; is an open-source interpretable machine learning R package explicitly designed to bridge spatial transcriptomic profiles and clinical phenotypes, advancing spatially informed precision oncology research. Built upon the core framework proposed in the benchmark study, this package enables systematic integration of high-resolution spatial transcriptomics data with clinically annotated bulk RNA-seq data, empowering researchers to mine spatially resolved biomarkers that are predictive of critical patient outcomes including survival, tumor staging, and immunotherapy response.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>SpaDo</title>

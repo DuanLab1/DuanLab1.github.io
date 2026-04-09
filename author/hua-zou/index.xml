@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hua Zou# | Duan Lab@SJTU</title>
+    <link>https://binduanlab.org.cn/author/hua-zou/</link>
+      <atom:link href="https://binduanlab.org.cn/author/hua-zou/index.xml" rel="self" type="application/rss+xml" />
+    <description>Hua Zou#</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 09 Apr 2026 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://binduanlab.org.cn/media/logo_hu6dae494f8ff2413ae13a6270391f9ca3_2645000_300x300_fit_lanczos_3.png</url>
+      <title>Hua Zou#</title>
+      <link>https://binduanlab.org.cn/author/hua-zou/</link>
+    </image>
+    
+    <item>
+      <title>SpaPheno: Linking Spatial Transcriptomics to Clinical Phenotypes with Interpretable Machine Learning</title>
+      <link>https://binduanlab.org.cn/publication/2026-spapheno-linking-spatial-transcriptomics-to-clinical-phenotypes-with-interpretable-machine-learning/</link>
+      <pubDate>Thu, 09 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>https://binduanlab.org.cn/publication/2026-spapheno-linking-spatial-transcriptomics-to-clinical-phenotypes-with-interpretable-machine-learning/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
