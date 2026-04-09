@@ -17,11 +17,21 @@ organizations:
 email: "zouhua1@outlook.com"
 bio: Microbiomics, Machine learning.
 
+# Education
+education:
+  courses:
+    - course: MSc in Genomics
+      institution: BGI Education Center, University of Chinese Academy of Sciences
+      year: 2016-2020
+    - course: BSc in Bioinformatics
+      institution: Harbin Medical University
+      year: 2011-2016
+
 # Interests & socials
 interests:
   - Host-microbiome interaction
   - Machine learning
-  - Multi-omics
+  - Multi-omics data analysis
 social:
   - icon: house
     icon_pack: fas
@@ -35,16 +45,6 @@ social:
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.com/citations?user=hcB-QU0AAAAJ&hl=en
-
-# Education
-education:
-  courses:
-    - course: MSc in Genomics
-      institution: BGI Education Center, University of Chinese Academy of Sciences
-      year: 2016-2020
-    - course: BSc in Bioinformatics
-      institution: Harbin Medical University
-      year: 2011-2016
 
 # Ordering key (smaller = earlier)
 weight: 10

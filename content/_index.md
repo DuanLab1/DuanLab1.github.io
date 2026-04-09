@@ -152,6 +152,8 @@ sections:
         tag: Spatial transcriptome
       - name: Multi-omics
         tag: Multi-omics
+      - name: Machine learning
+        tag: Machine learning        
       - name: Other
         tag: Other
     default_button_index: 0
@@ -230,7 +232,7 @@ sections:
   id: team
   content:
     sort_ascending: true
-    sort_by: Params.last_name
+    sort_by: Params.weight
     title: 👥 TEAM
     subtitle: ":point_right: [All Team Members](./team/)"
     # text: |-
