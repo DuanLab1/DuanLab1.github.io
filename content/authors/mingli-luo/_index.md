@@ -15,7 +15,7 @@ organizations:
   - name: Shanghai Jiao Tong University
     url: ""
 email: "luomingli6@163.com"
-bio: Bioinformatics, Spatial Ce1l Atlas, Tumor Heterogeneity, Systems Biology.
+bio: Bioinformatics, Spatial Cell Atlas, Tumor Heterogeneity, Systems Biology.
 
 # Education
 education:
@@ -27,7 +27,7 @@ education:
 # Interests & socials
 interests:
   - Bioinformatics algorithm
-  - Spatial ce1l atlas
+  - Spatial cell atlas
   - Tumor heterogeneity
 social:
   - icon: envelope

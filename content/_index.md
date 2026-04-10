@@ -10,7 +10,7 @@ sections:
       background:
         color: '#666'
         image:
-          filename: NAR-2024.png
+          filename: SpaPheno-2026.png
           filters:
             brightness: 0.6
         position: right
@@ -19,8 +19,8 @@ sections:
         icon: link
         icon_pack: fas
         text: Link
-        url: ../publication/2024-nar-perturbase/
-      title: "New publication: PerturBase a comprehensive database for single-cell perturbation data analysis and visualization"
+        url: ../publication/2026-SpaPheno-Linking Spatial Transcriptomics to Clinical Phenotypes with Interpretable Machine Learning/
+      title: "New publication: SpaPheno-Linking Spatial Transcriptomics to Clinical Phenotypes with Interpretable Machine Learning"
     - align: center
       background:
         color: '#666'
