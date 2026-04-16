@@ -16,7 +16,7 @@ author_notes:
 
 
 date: "2026-04-09T00:00:00Z"
-doi: "https://www.biorxiv.org/content/10.1101/2025.09.18.676993v1"
+doi: "https://link.springer.com/article/10.1186/s13073-026-01645-7"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2026-04-09T00:00:00Z"
@@ -40,7 +40,7 @@ links:
 - icon: link
   icon_pack: fas
   name: Link
-  url: https://www.biorxiv.org/content/10.1101/2025.09.18.676993v1
+  url: https://link.springer.com/article/10.1186/s13073-026-01645-7
 - icon: file-pdf
   icon_pack: fas
   name: PDF
