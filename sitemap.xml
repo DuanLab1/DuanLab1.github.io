@@ -23,15 +23,35 @@
     <loc>https://binduanlab.org.cn/author/mingli-luo-%E7%BD%97%E6%98%8E%E7%AB%8B/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://binduanlab.org.cn/publication/</loc>
-    <lastmod>2026-04-09T00:00:00+00:00</lastmod>
+    <loc>https://binduanlab.org.cn/event/</loc>
+    <lastmod>2026-07-03T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://binduanlab.org.cn/publication-type/2/</loc>
-    <lastmod>2026-04-09T00:00:00+00:00</lastmod>
+    <lastmod>2026-07-03T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://binduanlab.org.cn/authors/</loc>
+    <lastmod>2026-07-03T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://binduanlab.org.cn/author/bin-duan-%E6%AE%B5%E6%96%8C/</loc>
+    <lastmod>2026-07-03T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://binduanlab.org.cn/publication_types/</loc>
+    <lastmod>2026-07-03T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://binduanlab.org.cn/event/20260704-aibc2026/</loc>
+    <lastmod>2026-07-03T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://binduanlab.org.cn/event/20260625-wrsctasoff2026/</loc>
+    <lastmod>2026-06-26T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://binduanlab.org.cn/publication/</loc>
     <lastmod>2026-04-09T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -48,10 +68,6 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://binduanlab.org.cn/tag/machine-learning/</loc>
-    <lastmod>2026-04-09T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://binduanlab.org.cn/publication_types/</loc>
     <lastmod>2026-04-09T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -81,14 +97,6 @@
   </url><url>
     <loc>https://binduanlab.org.cn/author/xiaojie-cheng/</loc>
     <lastmod>2026-04-09T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://binduanlab.org.cn/event/</loc>
-    <lastmod>2025-10-18T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://binduanlab.org.cn/author/bin-duan-%E6%AE%B5%E6%96%8C/</loc>
-    <lastmod>2025-10-18T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://binduanlab.org.cn/event/20251018-csbm/</loc>

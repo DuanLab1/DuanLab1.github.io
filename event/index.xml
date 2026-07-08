@@ -5,12 +5,32 @@
     <link>https://binduanlab.org.cn/event/</link>
       <atom:link href="https://binduanlab.org.cn/event/index.xml" rel="self" type="application/rss+xml" />
     <description>🎫 Events</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 18 Oct 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 03 Jul 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://binduanlab.org.cn/media/logo_hu6dae494f8ff2413ae13a6270391f9ca3_2645000_300x300_fit_lanczos_3.png</url>
       <title>🎫 Events</title>
       <link>https://binduanlab.org.cn/event/</link>
     </image>
+    
+    <item>
+      <title>课题组参加2026人工智能与生物医药生态大会（AIBC2026）</title>
+      <link>https://binduanlab.org.cn/event/20260704-aibc2026/</link>
+      <pubDate>Fri, 03 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>https://binduanlab.org.cn/event/20260704-aibc2026/</guid>
+      <description>&lt;p&gt;2026年7月2-3日，课题组受邀参加在上海富悦大酒店举行的&lt;strong&gt;2026人工智能与生物医药生态大会（AIBC2026）&lt;/strong&gt;。作为国内“AI+生物医药”领域规模最大、连续举办时间最长的标杆性行业峰会，本届大会汇集了超过1500位来自顶尖科研机构、全球制药巨头、AI技术公司与投资机构的专家与决策者。&lt;/p&gt;
+&lt;p&gt;课题组组长段斌在&lt;strong&gt;分论坛7【AI与多组学融合】&lt;/strong&gt; 上发表了题为 &lt;strong&gt;Linking Spatial Transcriptomics to Clinical Phenotypes through Interpretable AI&lt;/strong&gt; 的主题演讲。报告系统介绍了课题组在可解释人工智能与空间转录组学交叉领域的最新研究进展，展示了如何通过机器学习模型将高维空间转录组数据与临床表型进行可解释的关联建模，为肿瘤微环境解析和精准医学标志物发现提供了新的计算框架。该报告引发了来自学术界和产业界同行的广泛关注与深入讨论。&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>课题组长段斌受邀参加第二届西部单细胞与空间组学论坛并作主题报告</title>
+      <link>https://binduanlab.org.cn/event/20260625-wrsctasoff2026/</link>
+      <pubDate>Fri, 26 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>https://binduanlab.org.cn/event/20260625-wrsctasoff2026/</guid>
+      <description>&lt;p&gt;2026年6月25-26日，课题组组长段斌研究员受邀赴重庆参加&lt;strong&gt;第二届西部单细胞组学技术应用论坛暨空间组学前沿论坛&lt;/strong&gt;，并在&lt;strong&gt;数据科学与算法突破&lt;/strong&gt;板块发表了题为 &lt;strong&gt;“空间组学的可解释表征与临床转化”&lt;/strong&gt; 的主题报告。&lt;/p&gt;
+&lt;p&gt;在报告中，段斌研究员系统介绍了课题组在可解释人工智能与空间组学交叉领域的最新研究进展。报告聚焦于如何通过创新的机器学习算法，对高维空间转录组数据进行可解释的表征学习。该研究为理解复杂疾病的分子机制提供了新的计算视角，并为空间组学数据向临床 biomarkers 发现与转化应用搭建了桥梁。报告内容引发了来自高校、医院及产业界同行的广泛关注与热烈讨论。&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>课题组长段斌受邀参加2025年第四届全国系统生物学大会并发表演讲</title>
