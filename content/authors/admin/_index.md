@@ -31,9 +31,9 @@ education:
 
 # Interests & socials
 interests:
-  - Bioinformatics Algorithm
-  - Spatial Cell Atlas
-  - Tumor Heterogeneity
+  - Artificial intelligence
+  - Systems biomedicine
+  - Tumor AI Virtual Cell
 social:
   - icon: house
     icon_pack: fas
@@ -54,4 +54,4 @@ status:
   icon: ☕️
 ---
 
-My aim is to utilize machine learning and artificial intelligence, combined with systems biology, to comprehensively characterize the genotypes, molecular phenotypes, and clinical phenotypes within the tumor microenvironment. Our goal is to explore the intricate relationships among these three aspects in order to contribute to the advancement of precision oncology.
+Our research aims to redefine cancer biology through AI-driven tumor state science. By integrating artificial intelligence with systems biomedicine, we seek to understand tumors as evolving complex systems rather than static molecular entities. We develop interpretable AI frameworks to construct tumor state representations, establish cross-scale and cross-modal biological translations, and predict how tumor states evolve in response to genetic and therapeutic perturbations. Our ultimate vision is to build a Tumor AI Virtual Cell (AIVC)—an intelligent model capable of understanding, simulating, and manipulating tumor states to accelerate precision oncology.
