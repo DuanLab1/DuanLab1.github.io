@@ -1,12 +1,12 @@
 +++
 # Project title.
-title = "Inference of Genotype-Molecular Phenotype-Clinical Phenotype Associations"
+title = "Tumor State Translation"
 
 # Date this page was created.
-date = 2024-11-16T16:32:42+13:00
+date = 2024-11-20T16:32:42+13:00
 
 # Project summary to display on homepage.
-summary = "Our research integrates genomic, molecular, and clinical data to infer the relationships between these different layers of tumor biology. We focus on identifying tumor biomarkers, understanding tumor evolution, and performing prognostic analysis, all of which are essential for early diagnosis, targeted therapy, and individualized patient prognosis."
+summary = "A major challenge in cancer research is how to translate biological information between experimental systems, molecular layers, spatial contexts, and clinical outcomes. We develop AI-driven frameworks to establish cross-scale and cross-modal mappings that bridge basic discoveries and clinical applications. Representative Works: **SpaPheno** (*Genome Medicine*, 2026)."
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["economic-impact", "r-package"]`
@@ -39,11 +39,20 @@ url_slides = ""
 # To use, add an image named `featured.jpg/png` to your project's folder. 
 [image]
   # Caption (optional)
-  caption = "Image credit: [**Cancer evolution: Darwin and beyond**](https://doi.org/10.15252/embj.2021108389)"
+  # caption = ""
   
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
   focal_point = "Smart"
 +++
 
-Our research integrates genomic, molecular, and clinical data to infer the relationships between these different layers of tumor biology. We focus on identifying tumor biomarkers, understanding tumor evolution, and performing prognostic analysis, all of which are essential for early diagnosis, targeted therapy, and individualized patient prognosis.
+
+## Connecting biological states across scales and modalities
+
+A major challenge in cancer research is how to translate biological information between experimental systems, molecular layers, spatial contexts, and clinical outcomes. We develop AI-driven frameworks to establish cross-scale and cross-modal mappings that bridge basic discoveries and clinical applications.
+
+## Representative Work
+
+**SpaPheno** (*Genome Medicine*, 2026)
+
+Developed an interpretable AI framework that connects spatial tumor states with clinical phenotypes, enabling the translation of molecular spatial patterns into patient-level outcomes.

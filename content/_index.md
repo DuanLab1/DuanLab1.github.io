@@ -118,7 +118,7 @@ sections:
   content:
     title: 🔬 RESEARCH
     subtitle: ":point_right: [Detailed Research](./research/)"
-    text: "Our lab focuses on applying machine learning and artificial intelligence to <u>systematically characterize key genotypes</u>, <u>molecular phenotypes</u>, and <u>clinical phenotypes within the tumor microenvironment</u>. Through a systems biology approach, we aim to uncover the relationships among these factors to advance precision oncology."
+    text: "Cancer is a dynamic, multi-scale, and multi-modal system. Our laboratory aims to establish an AI-driven framework to understand, model, and engineer tumor states. By integrating artificial intelligence with systems biology, we develop interpretable computational approaches to represent tumor states, translate biological information across scales, and predict state transitions induced by genetic and therapeutic perturbations.Our long-term vision is to build a <u>Tumor AI Virtual Cell (AIVC)</u>—an intelligent model capable of understanding tumor states, simulating tumor evolution, and guiding precision oncology."
     count: 100
     filters:
       author: ""
