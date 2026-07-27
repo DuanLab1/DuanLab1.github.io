@@ -61,7 +61,223 @@
       <link>https://binduanlab.org.cn/research/</link>
       <pubDate>Tue, 29 Apr 2025 00:00:00 +0000</pubDate>
       <guid>https://binduanlab.org.cn/research/</guid>
-      <description>&lt;p&gt;Our research aims to utilize machine learning and artificial intelligence, combined with systems biology, to comprehensively characterize the genotypes, molecular phenotypes, and clinical phenotypes within the tumor microenvironment. Our goal is to explore the intricate relationships among these three aspects in order to contribute to the advancement of precision oncology.&lt;/p&gt;
+      <description>&lt;h1 id=&#34;ai-driven-tumor-state-science&#34;&gt;AI-driven Tumor State Science&lt;/h1&gt;
+&lt;p&gt;Cancer is a dynamic, multi-scale, and multi-modal system. Our laboratory aims to establish an AI-driven framework to understand, model, and engineer tumor states. By integrating artificial intelligence with systems biology, we develop interpretable computational approaches to represent tumor states, translate biological information across scales, and predict state transitions induced by genetic and therapeutic perturbations.&lt;/p&gt;
+&lt;p&gt;Our long-term vision is to build a &lt;strong&gt;Tumor AI Virtual Cell (AIVC)&lt;/strong&gt;—an intelligent model capable of understanding tumor states, simulating tumor evolution, and guiding precision oncology.&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-ai-driven-framework-for-tumor-state-science&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;AI-driven framework for tumor state science.&#34; srcset=&#34;
+               /research/research_framework_hufc72396be3261145d8ff506ae516d2da_1316526_e94b69e09b587816829ae7a0855897ce.webp 400w,
+               /research/research_framework_hufc72396be3261145d8ff506ae516d2da_1316526_7bed737dc007de280e47a7e8349229cb.webp 760w,
+               /research/research_framework_hufc72396be3261145d8ff506ae516d2da_1316526_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://binduanlab.org.cn/research/research_framework_hufc72396be3261145d8ff506ae516d2da_1316526_e94b69e09b587816829ae7a0855897ce.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;694&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      AI-driven framework for tumor state science.
+    &lt;/figcaption&gt;&lt;/figure&gt;
+
+&lt;h2 id=&#34;1-tumor-state-representation&#34;&gt;1. Tumor State Representation&lt;/h2&gt;
+&lt;h3 id=&#34;decoding-the-fundamental-states-of-tumors&#34;&gt;Decoding the fundamental states of tumors&lt;/h3&gt;
+&lt;p&gt;Tumors are not defined solely by genetic alterations or molecular subtypes, but by complex and dynamic cellular states emerging across multiple biological scales. We develop interpretable AI models to construct unified representations of tumor states from molecular, cellular, spatial, and functional perspectives.&lt;/p&gt;
+&lt;h3 id=&#34;representative-works&#34;&gt;Representative Works&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;scLearn&lt;/strong&gt; (&lt;em&gt;Science Advances&lt;/em&gt;, 2020)&lt;/p&gt;
+&lt;p&gt;Developed machine learning approaches for single-cell representation learning and characterization of cellular heterogeneity.&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-sclearn-science-advances-2020&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;**scLearn** (*Science Advances*, 2020)&#34; srcset=&#34;
+               /research/TSR_scLearn_hueba0e3bae8181935e549c0b5257b55d4_535687_1f2bd193c34fe93ce886057674bd87c5.webp 400w,
+               /research/TSR_scLearn_hueba0e3bae8181935e549c0b5257b55d4_535687_484daea437b4a61ae5b92fb61a6c946f.webp 760w,
+               /research/TSR_scLearn_hueba0e3bae8181935e549c0b5257b55d4_535687_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://binduanlab.org.cn/research/TSR_scLearn_hueba0e3bae8181935e549c0b5257b55d4_535687_1f2bd193c34fe93ce886057674bd87c5.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;618&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      &lt;strong&gt;scLearn&lt;/strong&gt; (&lt;em&gt;Science Advances&lt;/em&gt;, 2020)
+    &lt;/figcaption&gt;&lt;/figure&gt;
+
+&lt;p&gt;&lt;strong&gt;SpaDo&lt;/strong&gt; (&lt;em&gt;Genome Biology&lt;/em&gt;, 2024)&lt;/p&gt;
+&lt;p&gt;Developed spatial transcriptomic modeling approaches to characterize spatially organized cellular states and tumor ecosystems.&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-spado-genome-biology-2024&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;**SpaDo** (*Genome Biology*, 2024)&#34; srcset=&#34;
+               /research/TSR_SpaDo_hub70eef3eb76be9b97bd3c05edbb7740d_444057_a82d7d291fa1e660131f5ca984e0c7f0.webp 400w,
+               /research/TSR_SpaDo_hub70eef3eb76be9b97bd3c05edbb7740d_444057_6746529c16f7f45e027d527621a41d23.webp 760w,
+               /research/TSR_SpaDo_hub70eef3eb76be9b97bd3c05edbb7740d_444057_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://binduanlab.org.cn/research/TSR_SpaDo_hub70eef3eb76be9b97bd3c05edbb7740d_444057_a82d7d291fa1e660131f5ca984e0c7f0.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;448&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      &lt;strong&gt;SpaDo&lt;/strong&gt; (&lt;em&gt;Genome Biology&lt;/em&gt;, 2024)
+    &lt;/figcaption&gt;&lt;/figure&gt;
+
+&lt;h2 id=&#34;2-tumor-state-translation&#34;&gt;2. Tumor State Translation&lt;/h2&gt;
+&lt;h3 id=&#34;connecting-biological-states-across-scales-and-modalities&#34;&gt;Connecting biological states across scales and modalities&lt;/h3&gt;
+&lt;p&gt;A major challenge in cancer research is how to translate biological information between experimental systems, molecular layers, spatial contexts, and clinical outcomes. We develop AI-driven frameworks to establish cross-scale and cross-modal mappings that bridge basic discoveries and clinical applications.&lt;/p&gt;
+&lt;h3 id=&#34;representative-work&#34;&gt;Representative Work&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;SpaPheno&lt;/strong&gt; (&lt;em&gt;Genome Medicine&lt;/em&gt;, 2026)&lt;/p&gt;
+&lt;p&gt;Developed an interpretable AI framework that connects spatial tumor states with clinical phenotypes, enabling the translation of molecular spatial patterns into patient-level outcomes.&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-spapheno-genome-medicine-2026&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;**SpaPheno** (*Genome Medicine*, 2026)&#34; srcset=&#34;
+               /research/TST_SpaPheno_hud3d834d057c6d80f0d3e79c03726e627_394111_9b1fd8c48c7e0068131f082db6759ab2.webp 400w,
+               /research/TST_SpaPheno_hud3d834d057c6d80f0d3e79c03726e627_394111_5d4b7d07f60c841552577349a4f853df.webp 760w,
+               /research/TST_SpaPheno_hud3d834d057c6d80f0d3e79c03726e627_394111_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://binduanlab.org.cn/research/TST_SpaPheno_hud3d834d057c6d80f0d3e79c03726e627_394111_9b1fd8c48c7e0068131f082db6759ab2.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;638&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      &lt;strong&gt;SpaPheno&lt;/strong&gt; (&lt;em&gt;Genome Medicine&lt;/em&gt;, 2026)
+    &lt;/figcaption&gt;&lt;/figure&gt;
+
+&lt;h2 id=&#34;3-tumor-state-perturbation&#34;&gt;3. Tumor State Perturbation&lt;/h2&gt;
+&lt;h3 id=&#34;predicting-and-designing-tumor-state-transitions&#34;&gt;Predicting and designing tumor state transitions&lt;/h3&gt;
+&lt;p&gt;Understanding cancer requires not only describing tumor states, but also predicting how these states change in response to genetic and therapeutic interventions. We develop AI models to characterize perturbation-induced state transitions and identify principles governing tumor response.&lt;/p&gt;
+&lt;h3 id=&#34;representative-works-1&#34;&gt;Representative Works&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;MUSIC&lt;/strong&gt; (&lt;em&gt;Nature Communications&lt;/em&gt;, 2019)&lt;/p&gt;
+&lt;p&gt;Developed computational approaches for modeling genetic perturbation effects and linking perturbations to cellular phenotypic changes.&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-music-nature-communications-2019&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;**MUSIC** (*Nature Communications*, 2019)&#34; srcset=&#34;
+               /research/TSP_MUSIC_huf8199a3a2d09c73c20051e59b31d6a40_383421_97e293a6a19b6ce48647ce9f746673e0.webp 400w,
+               /research/TSP_MUSIC_huf8199a3a2d09c73c20051e59b31d6a40_383421_f2a01b8e940d14a10a11ebc8552d8624.webp 760w,
+               /research/TSP_MUSIC_huf8199a3a2d09c73c20051e59b31d6a40_383421_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://binduanlab.org.cn/research/TSP_MUSIC_huf8199a3a2d09c73c20051e59b31d6a40_383421_97e293a6a19b6ce48647ce9f746673e0.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;640&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      &lt;strong&gt;MUSIC&lt;/strong&gt; (&lt;em&gt;Nature Communications&lt;/em&gt;, 2019)
+    &lt;/figcaption&gt;&lt;/figure&gt;
+
+&lt;p&gt;&lt;strong&gt;PerturBase&lt;/strong&gt; (&lt;em&gt;Nucleic Acids Research&lt;/em&gt;, 2025)&lt;/p&gt;
+&lt;p&gt;Developed a systematic framework and database for integrating and interpreting perturbation data to understand gene function and cellular state regulation.&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-perturbase-nucleic-acids-research-2025&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;**PerturBase** (*Nucleic Acids Research*, 2025)&#34; srcset=&#34;
+               /research/TSP_PerturBase_hu8b1f7db58d7ad91ae3cf191f16de0950_223729_e6aac2f671b9c0cee4ba2a25914d67f2.webp 400w,
+               /research/TSP_PerturBase_hu8b1f7db58d7ad91ae3cf191f16de0950_223729_c20912ffc1aa68f6226d63c727eeebfd.webp 760w,
+               /research/TSP_PerturBase_hu8b1f7db58d7ad91ae3cf191f16de0950_223729_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://binduanlab.org.cn/research/TSP_PerturBase_hu8b1f7db58d7ad91ae3cf191f16de0950_223729_e6aac2f671b9c0cee4ba2a25914d67f2.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;300&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      &lt;strong&gt;PerturBase&lt;/strong&gt; (&lt;em&gt;Nucleic Acids Research&lt;/em&gt;, 2025)
+    &lt;/figcaption&gt;&lt;/figure&gt;
+
 </description>
     </item>
     

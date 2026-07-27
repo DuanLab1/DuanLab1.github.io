@@ -5,7 +5,7 @@
     <link>https://binduanlab.org.cn/research_brief/</link>
       <atom:link href="https://binduanlab.org.cn/research_brief/index.xml" rel="self" type="application/rss+xml" />
     <description>Research</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 16 Nov 2024 16:32:42 +1300</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 25 Nov 2024 16:32:42 +1300</lastBuildDate>
     <image>
       <url>https://binduanlab.org.cn/media/logo_hu6dae494f8ff2413ae13a6270391f9ca3_2645000_300x300_fit_lanczos_3.png</url>
       <title>Research</title>
@@ -13,29 +13,45 @@
     </image>
     
     <item>
-      <title>Inference of Genotype-Molecular Phenotype-Clinical Phenotype Associations</title>
-      <link>https://binduanlab.org.cn/research_brief/inference-association/</link>
-      <pubDate>Sat, 16 Nov 2024 16:32:42 +1300</pubDate>
-      <guid>https://binduanlab.org.cn/research_brief/inference-association/</guid>
-      <description>&lt;p&gt;Our research integrates genomic, molecular, and clinical data to infer the relationships between these different layers of tumor biology. We focus on identifying tumor biomarkers, understanding tumor evolution, and performing prognostic analysis, all of which are essential for early diagnosis, targeted therapy, and individualized patient prognosis.&lt;/p&gt;
+      <title>Tumor State Representation</title>
+      <link>https://binduanlab.org.cn/research_brief/tumor-state-representation/</link>
+      <pubDate>Mon, 25 Nov 2024 16:32:42 +1300</pubDate>
+      <guid>https://binduanlab.org.cn/research_brief/tumor-state-representation/</guid>
+      <description>&lt;h2 id=&#34;decoding-the-fundamental-states-of-tumors&#34;&gt;Decoding the fundamental states of tumors&lt;/h2&gt;
+&lt;p&gt;Tumors are not defined solely by genetic alterations or molecular subtypes, but by complex and dynamic cellular states emerging across multiple biological scales. We develop interpretable AI models to construct unified representations of tumor states from molecular, cellular, spatial, and functional perspectives.&lt;/p&gt;
+&lt;h2 id=&#34;representative-works&#34;&gt;Representative Works&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;scLearn&lt;/strong&gt; (&lt;em&gt;Science Advances&lt;/em&gt;, 2020)&lt;/p&gt;
+&lt;p&gt;Developed machine learning approaches for single-cell representation learning and characterization of cellular heterogeneity.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;SpaDo&lt;/strong&gt; (&lt;em&gt;Genome Biology&lt;/em&gt;, 2024)&lt;/p&gt;
+&lt;p&gt;Developed spatial transcriptomic modeling approaches to characterize spatially organized cellular states and tumor ecosystems.&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Analysis of the Tumor Microenvironment</title>
-      <link>https://binduanlab.org.cn/research_brief/tumor-microenvironment/</link>
-      <pubDate>Fri, 15 Nov 2024 16:32:42 +1300</pubDate>
-      <guid>https://binduanlab.org.cn/research_brief/tumor-microenvironment/</guid>
-      <description>&lt;p&gt;We aim to explore the immune and microbiome microenvironments of tumors, investigating their composition and function, as well as their impact on tumor development. By integrating multi-omics data, we seek to reveal how the tumor microenvironment influences cancer progression.&lt;/p&gt;
+      <title>Tumor State Translation</title>
+      <link>https://binduanlab.org.cn/research_brief/tumor-state-translation/</link>
+      <pubDate>Wed, 20 Nov 2024 16:32:42 +1300</pubDate>
+      <guid>https://binduanlab.org.cn/research_brief/tumor-state-translation/</guid>
+      <description>&lt;h2 id=&#34;connecting-biological-states-across-scales-and-modalities&#34;&gt;Connecting biological states across scales and modalities&lt;/h2&gt;
+&lt;p&gt;A major challenge in cancer research is how to translate biological information between experimental systems, molecular layers, spatial contexts, and clinical outcomes. We develop AI-driven frameworks to establish cross-scale and cross-modal mappings that bridge basic discoveries and clinical applications.&lt;/p&gt;
+&lt;h2 id=&#34;representative-work&#34;&gt;Representative Work&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;SpaPheno&lt;/strong&gt; (&lt;em&gt;Genome Medicine&lt;/em&gt;, 2026)&lt;/p&gt;
+&lt;p&gt;Developed an interpretable AI framework that connects spatial tumor states with clinical phenotypes, enabling the translation of molecular spatial patterns into patient-level outcomes.&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Characterization and Prediction of Key Molecular Phenotypes</title>
-      <link>https://binduanlab.org.cn/research_brief/key-molecular-phenotypes/</link>
-      <pubDate>Thu, 14 Nov 2024 16:32:42 +1300</pubDate>
-      <guid>https://binduanlab.org.cn/research_brief/key-molecular-phenotypes/</guid>
-      <description>&lt;p&gt;This includes the systematic analysis and prediction of important molecular features, such as tumor hallmarks, cell types, cell states, and spatial domains, which serve as the basic functional units to characterize tumor cells.&lt;/p&gt;
+      <title>Tumor State Perturbation</title>
+      <link>https://binduanlab.org.cn/research_brief/tumor-state-perturbation/</link>
+      <pubDate>Sun, 10 Nov 2024 16:32:42 +1300</pubDate>
+      <guid>https://binduanlab.org.cn/research_brief/tumor-state-perturbation/</guid>
+      <description>&lt;h2 id=&#34;predicting-and-designing-tumor-state-transitions&#34;&gt;Predicting and designing tumor state transitions&lt;/h2&gt;
+&lt;p&gt;Understanding cancer requires not only describing tumor states, but also predicting how these states change in response to genetic and therapeutic interventions. We develop AI models to characterize perturbation-induced state transitions and identify principles governing tumor response.&lt;/p&gt;
+&lt;h2 id=&#34;representative-works&#34;&gt;Representative Works&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;MUSIC&lt;/strong&gt; (&lt;em&gt;Nature Communications&lt;/em&gt;, 2019)&lt;/p&gt;
+&lt;p&gt;Developed computational approaches for modeling genetic perturbation effects and linking perturbations to cellular phenotypic changes.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;PerturBase&lt;/strong&gt; (&lt;em&gt;Nucleic Acids Research&lt;/em&gt;, 2025)&lt;/p&gt;
+&lt;p&gt;Developed a systematic framework and database for integrating and interpreting perturbation data to understand gene function and cellular state regulation.&lt;/p&gt;
 </description>
     </item>
     
