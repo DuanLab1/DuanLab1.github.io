@@ -43,9 +43,9 @@
     
     <item>
       <title>SpaPheno: Linking Spatial Transcriptomics to Clinical Phenotypes with Interpretable Machine Learning</title>
-      <link>https://binduanlab.org.cn/publication/2026-spapheno-linking-spatial-transcriptomics-to-clinical-phenotypes-with-interpretable-machine-learning/</link>
+      <link>https://binduanlab.org.cn/publication/2026-gm-spapheno/</link>
       <pubDate>Thu, 09 Apr 2026 00:00:00 +0000</pubDate>
-      <guid>https://binduanlab.org.cn/publication/2026-spapheno-linking-spatial-transcriptomics-to-clinical-phenotypes-with-interpretable-machine-learning/</guid>
+      <guid>https://binduanlab.org.cn/publication/2026-gm-spapheno/</guid>
       <description></description>
     </item>
     
@@ -83,9 +83,9 @@
     
     <item>
       <title>Exploring morphological heterogeneity of circulating tumor cells: machine learning-based approach for cell identification and prognostic implications</title>
-      <link>https://binduanlab.org.cn/publication/2025-scibull-exploring-morphological-heterogeneity-of-circulating-tumor-cells/</link>
+      <link>https://binduanlab.org.cn/publication/2025-scibull/</link>
       <pubDate>Wed, 30 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>https://binduanlab.org.cn/publication/2025-scibull-exploring-morphological-heterogeneity-of-circulating-tumor-cells/</guid>
+      <guid>https://binduanlab.org.cn/publication/2025-scibull/</guid>
       <description></description>
     </item>
     
@@ -134,12 +134,12 @@
 &lt;figure  id=&#34;figure-ai-driven-framework-for-tumor-state-science&#34;&gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;AI-driven framework for tumor state science.&#34; srcset=&#34;
-               /research/research_framework_hufc72396be3261145d8ff506ae516d2da_1316526_e94b69e09b587816829ae7a0855897ce.webp 400w,
-               /research/research_framework_hufc72396be3261145d8ff506ae516d2da_1316526_7bed737dc007de280e47a7e8349229cb.webp 760w,
-               /research/research_framework_hufc72396be3261145d8ff506ae516d2da_1316526_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;https://binduanlab.org.cn/research/research_framework_hufc72396be3261145d8ff506ae516d2da_1316526_e94b69e09b587816829ae7a0855897ce.webp&#34;
+               /research/research_framework_hu214530284dcc6ce9b69bda015105a046_2079066_4450b961a42e7ae467d09f382a5c151f.webp 400w,
+               /research/research_framework_hu214530284dcc6ce9b69bda015105a046_2079066_a15618aba6cc35393cf26eb224a74d2d.webp 760w,
+               /research/research_framework_hu214530284dcc6ce9b69bda015105a046_2079066_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://binduanlab.org.cn/research/research_framework_hu214530284dcc6ce9b69bda015105a046_2079066_4450b961a42e7ae467d09f382a5c151f.webp&#34;
                width=&#34;760&#34;
-               height=&#34;694&#34;
+               height=&#34;507&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;figcaption&gt;
       AI-driven framework for tumor state science.
@@ -493,9 +493,9 @@
     
     <item>
       <title>Multi-slice spatial transcriptome domain analysis with SpaDo</title>
-      <link>https://binduanlab.org.cn/publication/2024-gb-multi-slice-spatial-transcriptome-domain-analysis-with-spado/</link>
+      <link>https://binduanlab.org.cn/publication/2024-gb-spado/</link>
       <pubDate>Tue, 19 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>https://binduanlab.org.cn/publication/2024-gb-multi-slice-spatial-transcriptome-domain-analysis-with-spado/</guid>
+      <guid>https://binduanlab.org.cn/publication/2024-gb-spado/</guid>
       <description></description>
     </item>
     
