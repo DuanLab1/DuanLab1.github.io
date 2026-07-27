@@ -19,13 +19,13 @@ sections:
         icon: link
         icon_pack: fas
         text: Link
-        url: ../publication/2026-SpaPheno-Linking Spatial Transcriptomics to Clinical Phenotypes with Interpretable Machine Learning/
+        url: /publication/2026-gm-spapheno/
       title: "New publication: SpaPheno-Linking Spatial Transcriptomics to Clinical Phenotypes with Interpretable Machine Learning"
     - align: center
       background:
         color: '#666'
         image:
-          filename: KeyMolecularPhenotypes.jpg
+          filename: Research_Framework.png
           filters:
             brightness: 0.7
         position: right
@@ -34,7 +34,7 @@ sections:
         icon: flask
         icon_pack: fas
         text: Research
-        url: ../research_brief/
+        url: /research_brief/
       title: "👋 Welcome to Duan Lab@SJTU, China 👋"
     - align: center
       background:
@@ -49,7 +49,7 @@ sections:
         icon: graduation-cap
         icon_pack: fas
         text: Team
-        url: ../team/
+        url: /team/
       title: 🌍 Meet Our Team Members 🌍
       
   design:
